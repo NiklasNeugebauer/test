@@ -10,7 +10,10 @@ jobs:
 
     steps:
       - name: Check for milestone
-        run: |
-          if [ -z "${{ github.event.pull_request.milestone }}" ]; then
-            core.setFailed('All pull requests must have a milestone assigned before they can be merged.');
-          fi
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const pr = context.payload.pull_request;
+            if (!pr.milestone) {
+              core.setFailed('All pull requests must have a milestone assigned before they can be merged.');
+            }
