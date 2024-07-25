@@ -17,4 +17,5 @@ jobs:
             exit 0
           else
             echo "::set-output name=milestone::true"
+            exit 1
           fi
