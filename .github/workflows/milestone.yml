@@ -10,11 +10,10 @@ jobs:
 
     steps:
       - name: Check for milestone
-        run: |
-          if [ -z "${{ github.event.pull_request.milestone }}" ]; then
-            echo "::set-output name=milestone::false"
-            echo "No milestone assigned. Please add a milestone to this pull request." > message.md
-            exit 0
-          else
-            echo "::set-output name=milestone::true"
-          fi
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const pr = context.payload.pull_request;
+            if (!pr.milestone) {
+              core.setFailed('All pull requests must have a milestone assigned before they can be merged.');
+            }
