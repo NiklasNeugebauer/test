@@ -1,20 +1,47 @@
-name: Milestone Assigned
+name: Assign Latest Milestone
 
 on:
   pull_request:
-    types: [milestoned, demilestoned, opened, synchronize]
+    types: [opened, synchronize]
 
 jobs:
-  check-milestone:
+  assign-latest-milestone:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check for milestone
-        run: |
-          if [ -z "${{ github.event.pull_request.milestone }}" ]; then
-            echo "::set-output name=milestone::false"
-            echo "No milestone assigned. Please add a milestone to this pull request." > message.md
-            exit 0
-          else
-            echo "::set-output name=milestone::true"
-          fi
+      - name: Assign the latest milestone
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const github = require('@actions/github');
+            const context = github.context;
+
+            async function run() {
+              // Fetch milestones
+              const milestones = await github.rest.issues.listMilestones({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                state: 'open',
+                sort: 'due_on',
+                direction: 'desc'
+              });
+
+              if (milestones.data.length === 0) {
+                throw new Error('No open milestones found.');
+              }
+
+              // Get the latest milestone
+              const latestMilestone = milestones.data[0];
+
+              // Assign the latest milestone to the PR
+              await github.rest.issues.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.payload.pull_request.number,
+                milestone: latestMilestone.number
+              });
+            }
+
+            run().catch(error => {
+              core.setFailed(error.message);
+            });
