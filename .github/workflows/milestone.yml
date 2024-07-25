@@ -14,8 +14,8 @@ jobs:
           if [ -z "${{ github.event.pull_request.milestone }}" ]; then
             echo "::set-output name=milestone::false"
             echo "No milestone assigned. Please add a milestone to this pull request." > message.md
-            exit 0
+            exit 1
           else
             echo "::set-output name=milestone::true"
-            exit 1
+            exit 0
           fi
