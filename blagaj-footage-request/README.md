@@ -30,16 +30,31 @@ and an April–December 2026 technical-protection monitoring arrangement with an
 operational centre and mobile intervention teams.
 
 **Why this matches the hardware on site:** mains power exists on those towers
-only because of the 2016 lighting scheme; a 2016 ADSL line is implausible to
-sustain on a 310 m karst summit, and a white box with signal-strength LEDs is
-what replaces a failed ADSL line; and a camera whose documented purpose is
-protecting floodlights and detecting intrusion is one aimed inward at the
-courtyard and entrance.
+only because of the 2016 lighting scheme, which is what makes a motorised dome
+possible up there at all; and a camera whose documented purpose is protecting
+floodlights and detecting intrusion is one aimed inward at the courtyard and
+the entrance.
 
-**Not confirmed:** no document describes a PTZ dome or any post-2016 upgrade.
-That the current camera is a motorised dome on a cellular uplink is inference
-from the observed hardware matching a new uplink on that existing powered
-install. The sign at the gate is what will confirm it.
+**What the procurement record does and does not support.** The full contract
+history for this site was retrieved from the BiH Public Procurement Agency's
+open data (all 501 procedures for the Agency, 2015–2026). It confirms the 2016
+install and its later servicing. It contains **no purchase of a PTZ or dome
+camera, no IP camera, no LTE router and no mobile-internet service at Blagaj**.
+The site's connectivity appears in the record once, as *"usluge internet
+priključka u toku 2017. godine na Stjepan gradu u Blagaju"* — a **BH Telecom**
+line, 204.12 KM (procedure 1235-8-2-28/18).
+
+So the best-supported reading is that the Blagaj installation is still
+substantially the **2016 Amitea system, serviced in December 2024**, running on
+that BH Telecom connection.
+
+**Correcting an earlier inference:** the white box with signal-strength LEDs
+indicates a *radio* link of some kind, but not necessarily a cellular one — a
+point-to-point wireless bridge or outdoor CPE looks the same and is at least as
+likely on a hilltop served by a fixed operator. Do not assert cellular. And the
+camera being a motorised dome rests on the on-site observation, not on any
+document. The sign at the gate, and the housing labels, are what will settle
+both.
 
 ---
 
@@ -253,6 +268,63 @@ manifestly excessive request on the controller under 14(6).
 
 ---
 
+# 4a. The two contractors — and which one matters
+
+Both were identified from the public procurement record, not inference.
+
+## Agencija Kamir d.o.o. — the CCTV firm. Ask about this one.
+
+The Agency's standing video-surveillance integrator, and the only party to have
+touched the Blagaj cameras since 2016:
+
+- **1235-8-2-59/24** — *"Servisiranje video nadzora na Starom gradu Blagaju"*,
+  **5,900.00 KM, 23.12.2024**. The only post-2016 CCTV job at Blagaj.
+- Also won the 2016 and 2017 Old Town phases, and **1235-7-2-38/24**,
+  *"Servisiranje i rekonstrukcija video nadzora u Starom gradu"*, 32,995.00 KM
+  (that one is Mostar Old Town, **not** Blagaj).
+
+**Contact:** Agencija Kamir d.o.o., Ulica pobijenih franjevaca 23, 88220 Široki
+Brijeg (the procurement registry still lists the older "Obilazna cesta 23").
+JIB 4272001500001. Tel **+387 39 700 700**, fax 039 703 415,
+**kamir@kamir.net**, www.kamir.net.
+
+**The useful detail: their own site states they deploy Avigilon cameras and NVR
+recorders.** Avigilon is professional-grade kit (Motorola Solutions) managed
+through Avigilon Control Center. If Blagaj is an Avigilon system, two things
+follow. Retention on a proper NVR is usually generous — weeks rather than days,
+which is better news than a camera recording to an SD card. And export is done
+from ACC: find the time range in the timeline, select the camera, export, and
+choose a format. **Ask specifically for MP4 or AVI, not the native AVF format**,
+because AVF needs the free ACC Player to open and you will otherwise be handed a
+file you cannot play. If they insist on AVF, ask them to include the player.
+
+## A.E. Sigurnost d.o.o. Zenica — the guard firm. Probably not the footage.
+
+Holds the current technical-protection monitoring contract for the site:
+
+- **1235-8-2-31/26** — 01.04–31.12.2026, **80.00 KM/month**, awarded 12.04.2026.
+  Earlier links in the same chain run back to 2017, with **Elite Security d.o.o.
+  Mostar** (Ante Starčevića 42, 036 348-584, info@elite-security.ba) holding it
+  in 2018 and 2020.
+
+**Contact:** Branilaca Bosne 16A, 72000 Zenica. Tel **+387 32 200 410** / 032
+442 040, **info@aesigurnost.com**, www.aesigurnost.com. Director Eldin Vrače.
+**Branch: PJ Mostar, Tekija 55C, Mostar** — which is in Blagaj, at the spring.
+
+**But read the contract subject carefully:** *"Monitoring dojavno operativnog
+centra i mobilne intervencije"* — that is **alarm-signal monitoring and guard
+response, not video monitoring**. Nothing in the public record shows this firm
+receiving or storing video from Blagaj. On the documents the recorder most
+likely sits with the Agency, serviced by Kamir.
+
+## What this means for your letters
+
+**Address the Agency as the controller** — it is the public institution and the
+data controller. But **name both firms in the request** and ask plainly which of
+them holds, hosts, or can access the recordings, and whether either acts as a
+processor (*obrađivač*) for the video system. That single question forecloses
+the most common brush-off, which is each party pointing at the other.
+
 # 5. Your legal position in detail
 
 **The law:** Zakon o zaštiti ličnih podataka, "Službeni glasnik BiH" br. 12/25 —
@@ -289,6 +361,18 @@ runs **GDPR + 2** in Part Two (GDPR 15 → BiH 17).
   of publicly accessible areas. Leverage, not a route to the footage.
 - **Art. 108(1)** — right to complain to the Agency, expressly "ne dovodeći u
   pitanje druga upravna ili sudska pravna sredstva".
+- **Art. 57(6)** — for large publicly accessible facilities the controller must
+  log use of the system and **keep those logs for at least 12 months**, recording
+  date, time and who viewed it. **Ask for the log alongside the footage.** Even
+  if the recording itself is short-lived, the log survives a year and shows the
+  system was in use that morning — and, if someone has since viewed that window,
+  who and when.
+- **Art. 39(1)(a) and 39(7)** — a data protection officer is **mandatory** for a
+  public authority, and the controller must **publish** their contact details and
+  file them with the Agency. **No DPO is published for either Agencija "Stari
+  grad" Mostar or Grad Mostar** — searched, absent. Say so in the letter and ask
+  to be given the contact. It is a compliance failure you can raise, and
+  Art. 14(4) opens the complaint route if it is ignored.
 
 **Form:** none required. The Agency's own citizens' guidance says an access
 request is submitted to the controller **"u slobodnoj formi"**. Registered post
@@ -324,7 +408,16 @@ The old register is still searchable at **https://azlpreg.azlp.ba/Pretraga**
 by address or location**; data frozen around 2022). It was searched for *Blagaj*,
 *Mostar*, *Grad Mostar*, *Stari grad*, *Stjepan*, *spomenik*, *baštin*, *zavod za
 zaštitu*, *turiz* — **no video-surveillance entry for any Blagaj or Mostar
-heritage custodian**. Worth two minutes for completeness, but it will not
+heritage custodian**.
+
+A second, targeted pass searched *"Agencija Stari grad"*, *asgmo*, the Agency's
+JIB *4227479670004*, *Grad Mostar*, *AE Sigurnost*, *Elite Security* and
+*Kamir*: **every one returns "Nema podataka za traženi pojam."** The register is
+otherwise well populated with video-surveillance collections and returns 92 rows
+for *Mostar* alone, so nothing is being masked by a result cap.
+
+**So none of the four relevant entities has a registered entry** — one more
+compliance point available to you, and confirmation that the register cannot
 identify this camera.
 
 ## What will identify the controller, fastest first
@@ -338,6 +431,12 @@ identify this camera.
 3. **The FOI request above**, item 3 — a fast, low-friction way to force
    identification even before the footage question is decided.
 4. **The Art. 32 records**, obtainable only through the Agency under Art. 32(4).
+5. **The *Službeni glasnik Grada Mostara* archive.** The Agency's website is
+   IP-blocked to automated access and its decisions could not be read, but the
+   city gazette is the one plausible published home for the Agency's Art. 57(4)
+   video-surveillance decision and for a DPO appointment. It is the highest-value
+   route nobody has yet exhausted, and it is browsable from an ordinary
+   connection.
 
 ---
 
@@ -397,10 +496,15 @@ untested in published BiH practice. The one closely analogous decision ordered
 |---|---|---|
 | **Agencija "Stari grad" Mostar** | **036 550-805**, **036 550-806**; fax 036 550-804 | V |
 | Address | **Maršala Tita 170–172, 88104 Mostar**, 08:00–16:00 | V |
-| Email | contact@asgmo.ba | **S — confirm by phone** |
-| Director | Miralem Fajić | **S** |
+| Email | **contact@asgmo.ba** — now confirmed from the Agency's own vCard and all 408 of its published procurement notices | **V** |
+| JIB | 4227479670004 · type: government institution, level: Grad Mostar | V |
+| **Named contact** | **Sulejman Demirović** — the contact person on all 408 of the Agency's procurement notices, including the most recent. Tel (036) 550-805 | **V** |
+| Director | **Address the letter to "Direktor Agencije 'Stari grad' Mostar" by function, not by name.** The eJN register names Miralem Fajić, but press reporting from May 2026 describes a live dispute over his dismissal, with the FBiH civil-service appeals board annulling the act as issued by an incompetent body. Using the office avoids the problem. | V |
+| **Agencija Kamir d.o.o.** — the CCTV firm (see §4a) | **+387 39 700 700** · **kamir@kamir.net** · U. pobijenih franjevaca 23, 88220 Široki Brijeg | V |
+| **A.E. Sigurnost d.o.o. Zenica** — alarm monitoring and guard response | **+387 32 200 410** · **info@aesigurnost.com** · Branilaca Bosne 16A, Zenica; branch PJ Mostar, Tekija 55C | V |
+| Elite Security d.o.o. Mostar — held the monitoring contract in 2018 and 2020 | 036 348-584 · info@elite-security.ba · Ante Starčevića 42 | V |
 | Amitea d.o.o. Mostar (2016 contractor) | +387 36 557 900 · info@amitea.ba · Bišće polje bb | V |
-| — a construction firm, so the CCTV was subcontracted; they can name the subcontractor | | |
+| — a construction firm, so the CCTV was subcontracted; Kamir is the likely subcontractor | | |
 
 ## Regulator
 
