@@ -24,6 +24,16 @@ anti-intrusion system, and **video surveillance to protect the floodlights**
 - Funders: Federalno ministarstvo raseljenih osoba i izbjeglica (30,000 KM),
   Ministarstvo civilnih poslova BiH (5,000 KM), Federalno ministarstvo kulture
   i sporta (4,526 KM)
+- Minor discrepancy on the main contract value: the Agency's own project page
+  says **33,979.79 KM**, the trade report **33,797.79 KM**. A transposition; the
+  contract settles it. Doesn't matter for your request.
+
+**The monument's designation:** *"Povijesno područje – Stari grad Blagaj
+(Stjepan-grad) u Blagaju kod Mostara"*, decision **06-6-1029/03-5** of
+**6 December 2003**, "Službeni glasnik BiH" **37/04** (later amended, 48/13 and
+1/21). Monument list entry **no. 652**. Note this is a *separate* listing from
+no. 495, *"Historijsko gradsko područje – Blagaj"* (decision 07.1-02-1029/03-37),
+which covers the surrounding urban area rather than the fortress.
 
 Continuing role: phase IV wall conservation (2021), routine Blagaj maintenance,
 and an April–December 2026 technical-protection monitoring arrangement with an
@@ -325,6 +335,107 @@ them holds, hosts, or can access the recordings, and whether either acts as a
 processor (*obrađivač*) for the video system. That single question forecloses
 the most common brush-off, which is each party pointing at the other.
 
+# 4b. The heritage paper trail — the slow but durable track
+
+The footage is perishable; this paperwork is not. Pursue it in parallel, on a
+slower clock, because it independently names who installed the system.
+
+## The one file worth chasing: the FMPU project file
+
+Zone I of the designation decision permits only research and
+conservation-restoration works, **"uz odobrenje federalnog ministarstva
+nadležnog za prostorno uređenje"** and under expert supervision of the
+Federation heritage service. It also bars permanent structures whose purpose is
+not exclusively the protection and presentation of the monument — which is
+precisely why the 2016 works were framed as protection.
+
+The approval regime is statutory: *Zakon o provedbi odluka Komisije za zaštitu
+nacionalnih spomenika* (Sl. novine FBiH 2/02, 8/02, 27/02, 6/04, 51/07).
+
+- **Čl. 5** — approvals for works on national monuments are issued by
+  **Federalno ministarstvo prostornog uređenja (FMPU)**.
+- **Čl. 6** — the application file must contain, among other things, **the
+  project itself (*projekat rehabilitacije*)**. That is the document that
+  itemises the equipment and names who designed and installed it.
+- **Čl. 8** — FMPU decides within 30 days. **Čl. 9** — no appeal; administrative
+  suit at the FBiH Supreme Court within 30 days.
+- **Čl. 11 and 13** — city and cantonal officials must hand FMPU all relevant
+  monument documentation on request, and FMPU supervises implementation.
+
+**This is the single most valuable document in the whole trail**, and it sits in
+an FMPU case file. Request it by freedom of information.
+
+FMPU publishes no register of issued monument approvals, so the 2016 *odobrenje*
+could not be found online — it has to be asked for.
+
+## A corroborating detail worth knowing
+
+FMPU also maintains a register of firms authorised to execute works on national
+monuments. **Amitea d.o.o. Mostar** appears at entry **306**, authorised for
+*niskogradnja* — civil and hydrotechnical works, preparatory works. **No
+electrical or technical-protection scope.**
+
+So the video-surveillance and anti-intrusion element of the 2016 job was almost
+certainly supplied or subcontracted by a specialist firm — which fits the
+separate finding that **Agencija Kamir** is the Agency's CCTV integrator. Two
+independent routes pointing the same way. (Caveat: that is the *current*
+register, not the 2016 one.)
+
+## Expert supervision — the Zavod file
+
+The designation decision required *stručni nadzor* by the Federation heritage
+service, which is the **Zavod za zaštitu spomenika**, part of FMKS. Ask its
+**Odjel za operativno-tehničku zaštitu** for the 2016 file.
+
+Obala Maka Dizdara 2, Sarajevo · **zavod@fmks.gov.ba** · director Robert Stergar
++387 33 254 180 · Odjel za operativno-tehničku zaštitu, Azer Aličić **+387 33
+254 164**. Its published register of issued expert opinions only begins in May
+2023, so 2016 must be requested.
+
+## Why the Agency cannot claim the files are gone
+
+From the Agency's own founding act — *Odluka o osnivanju Agencije "Stari grad"*,
+Gradsko vijeće Grada Mostara, **br. 01-402-1047/05 of 23.11.2005**:
+
+- **Čl. 1** — it is not a *javna ustanova* but a **samostalna gradska upravna
+  organizacija** with legal personality. A city administrative body.
+- **Čl. 15** — expressly binds the Agency to the **FBiH Freedom of Access to
+  Information Act**. It is unambiguously a *javni organ*, so Document 2 is
+  squarely within its obligations. This is useful if anyone tries to argue
+  otherwise.
+- **Čl. 18** — *"Agencija je dužna voditi kancelarijsko i arhivsko poslovanje"*.
+  It has a legal duty to keep office and archival records, so the 2016 and 2017
+  files exist and are retrievable.
+- **Čl. 19–20** — it is the legal successor of the *Gradski zavod za zaštitu
+  kulturno-istorijskog i prirodnog nasljeđa Mostar* and the Old Bridge project
+  unit, and took over their documentation on the record.
+- **Čl. 3** — its remit is the heritage of Mostar city-wide, which is how Blagaj
+  falls within it. **Čl. 6–7 and 17** — the director is appointed by the mayor
+  and signs the procurement decisions. **Čl. 10** — it is accountable to the
+  City Council and must report on request.
+
+## File to the Agency and to Grad Mostar in parallel
+
+The City founded the Agency, funds it, and its mayor appoints the director. Send
+the same freedom-of-information request to both. It costs nothing and forecloses
+a "wrong body" deflection. Grad Mostar publishes a request form at
+`https://www.mostar.ba/datoteka/zahtjev-za-pristup-informacijama/`, though it
+names no information officer; the responsible department is the *Odjel za
+organizaciju, pravne poslove, opću upravu, civilnu zaštitu i vatrogastvo*.
+
+## The trick for every missing information officer
+
+Both freedom-of-information Acts require each public body, on appointing its
+information officer, to **file that officer's name and contact details with the
+Ombudsman**. Neither the Agency, Grad Mostar, FMROI nor the BiH ministry of
+civil affairs publishes one — so **ask the Institucija ombudsmena za ljudska
+prava BiH for the currently registered officer** of each. Far faster than
+guessing, and it creates a record that you tried.
+
+Worth noting for leverage: **FMROI has no freedom-of-information page, no Vodič
+and no Index register at all** — a failure of its own statutory duty, and
+reportable to the Ombudsman in its own right if it stonewalls.
+
 # 5. Your legal position in detail
 
 **The law:** Zakon o zaštiti ličnih podataka, "Službeni glasnik BiH" br. 12/25 —
@@ -524,8 +635,13 @@ untested in published BiH practice. The one closely analogous decision ordered
 | KONS Mostar | 036 558-806 · Bulevar Narodne revolucije do br. 19, 08:00–16:00 | V |
 | Grad Mostar | +387 36 447-400 · grad.mostar@mostar.ba · Hrvatskih branitelja 2 | V |
 | Ministarstvo prosvjete, znanosti, kulture i športa HNŽ/K | +387 36 334 400 · monkshnk@tel.net.ba · Stjepana Radića 3 | V |
+| **FMPU** — approved the works, holds the project file | **Hamdije Čemerlića 2, 71000 Sarajevo** · information officer's name redacted in its published guide; address the post | V |
+| **Zavod za zaštitu spomenika** (FMKS) — owed expert supervision | **zavod@fmks.gov.ba** · Obala Maka Dizdara 2, Sarajevo · director Robert Stergar +387 33 254 180 · Odjel za operativno-tehničku zaštitu, Azer Aličić **+387 33 254 164** | V |
 | FMKS (funded the CCTV works) | +387 33 254 103 · ured@fmks.gov.ba · Obala Maka Dizdara 2, Sarajevo | V |
-| FMROI (main funder) | +387 33 294 101 · kabinet@fmroi.gov.ba · Hamdije Čemerlića 2, Sarajevo | V |
+| FMKS **information officer** | **Merima Đerekarac** · **033/254-108** · merima.djerekarac@fmks.gov.ba | V |
+| **Institucija ombudsmena za ljudska prava BiH** | holds the register of every public body's information officer — ask it for the Agency's, the City's and FMROI's | V |
+| FMROI (main funder) | +387 33 294 101 · kabinet@fmroi.gov.ba · **Hamdije Čemerlića 2, Sarajevo** — same building as FMPU. Sekretar ministarstva **Esed Ivojević**, esed.ivojevic@fmroi.gov.ba, +387 33 294 104. Publishes no FOI page at all. | V |
+| Ministarstvo civilnih poslova BiH (co-funder) | +387 33 492 633 · kabinet.ministra@mcp.gov.ba · Trg Bosne i Hercegovine 1, Sarajevo · no officer named | V |
 
 ## Local, for knowledge rather than ownership
 
@@ -564,10 +680,23 @@ untested in published BiH practice. The one closely analogous decision ordered
    contact the controller about preservation, and whether they hold any Art. 32
    record identifying a video-surveillance controller at Stari grad Blagaj.
    Neither is an entitlement, but the call is free.
-5. **KONS, Maršala Tita 9A/1, 09:00–17:00** — walk in. Ask for the file on
-   *Stari grad Blagaj (Stjepan grad)*: who holds custody, and whether any
-   consent exists for installing surveillance and lighting on the monument.
-   They regulate interventions there, so the installer should be named.
+5. **FMPU — Federalno ministarstvo prostornog uređenja, Hamdije Čemerlića 2,
+   71000 Sarajevo.** This is the body that approved the works and holds the
+   project file naming the installer. **Not KONS** — see the correction below.
+   Its information officer's name is redacted in its published guide, so address
+   the request to the post.
+6. **FMROI is in the same building, Hamdije Čemerlića 2** — the main funder of
+   the 2016 project. Absent a named officer, address the *Sekretar ministarstva*,
+   **Esed Ivojević**, esed.ivojevic@fmroi.gov.ba, +387 33 294 104. Two bodies,
+   one walk-in.
+7. **Zavod za zaštitu spomenika, Obala Maka Dizdara 2** — owed the expert
+   supervision on the 2016 works. Odjel za operativno-tehničku zaštitu,
+   **+387 33 254 164**.
+8. **KONS, Maršala Tita 9A/1, 09:00–17:00** — still worth a visit, but for the
+   designation file (decision 06-6-1029/03-5), not for the consent.
+   **Correction: KONS does not issue intervention consents at all** — its
+   competence is designation, international cooperation, UNESCO nominations and
+   the export of movable heritage. That approval power is FMPU's.
 
 **Note on expectations: nothing you do at the Agency in Sarajevo starts any
 clock.** Only delivery to the controller does — 30 days under Art. 14(3), 15 days
