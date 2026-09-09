@@ -151,7 +151,7 @@ Agencija "Stari grad" Mostar. Both partners sign all three.
 >
 > — **lokacija:** središnje dvorište i posjetilački ulaz, Stari grad Blagaj (Stjepan grad);
 > — **datum:** 9. septembar 2026. godine;
-> — **vrijeme:** približno od 06:45 do 07:30 sati;
+> — **vrijeme:** približno od 06:30 do 09:00 sati;
 > — **kamera:** pokretna kupolasta (PTZ) kamera na najvišoj kuli, na strani prema Blagaju i vrelu Bune, usmjerena prema unutrašnjem dvorištu i ulazu;
 > — **osobe na snimku:** potpisnici ovog zahtjeva, [ime i prezime] i [ime i prezime]; prema našem saznanju u kadru se u navedenom periodu nisu nalazila druga lica.
 >
@@ -177,7 +177,7 @@ Agencija "Stari grad" Mostar. Both partners sign all three.
 
 **English summary.** Under Art. 20(1)(c) and (2), read with Arts. 14(2) and 17,
 we urgently request that footage containing our personal data not be deleted,
-overwritten or rendered inaccessible — location, date, 06:45–07:30, camera as
+overwritten or rendered inaccessible — location, date, 06:30–09:00, camera as
 described; the persons recorded are the two signatories and to our knowledge no
 others were in frame. We require it **for the establishment and exercise of
 legal claims** within Art. 20(1)(c). Under Art. 20(2) restricted data **may be
@@ -195,7 +195,7 @@ Please export it to a file and copy it off the device.
 >
 > na osnovu člana 4. i člana 11. Zakona o slobodi pristupa informacijama u Federaciji Bosne i Hercegovine („Službene novine Federacije BiH", br. 32/01 i 48/11) (u daljem tekstu: ZoSPI FBiH), podnosimo zahtjev za pristup informacijama pod kontrolom Vašeg organa, i to:
 >
-> 1. **snimku videonadzora** sačinjenom na lokaciji središnje dvorište i posjetilački ulaz, Stari grad Blagaj (Stjepan grad), dana 9. septembra 2026. godine, u vremenu od približno 06:45 do 07:30 sati, u dijelu u kojem se na snimku nalaze podnosioci ovog zahtjeva;
+> 1. **snimku videonadzora** sačinjenom na lokaciji središnje dvorište i posjetilački ulaz, Stari grad Blagaj (Stjepan grad), dana 9. septembra 2026. godine, u vremenu od približno 06:30 do 09:00 sati, u dijelu u kojem se na snimku nalaze podnosioci ovog zahtjeva;
 > 2. **odluci/aktu** kojim je uspostavljen videonadzor na navedenoj lokaciji, uključujući podatke o svrsi, broju kamera, prostoru koji svaka kamera snima i **roku čuvanja snimaka**;
 > 3. **podatku o tome koji je organ, odnosno pravno ili fizičko lice, kontrolor** navedenog sistema videonadzora, te ime i kontakt podatke Vašeg **službenika za informiranje** (član 19. ZoSPI FBiH) i **službenika za zaštitu ličnih podataka**;
 > 4. **Vodiču i Indeks registru** iz člana 20. ZoSPI FBiH.
@@ -236,7 +236,7 @@ competent; no fee under Art. 16.
 >
 > na osnovu **člana 17. st. (1) i (3)** Zakona o zaštiti ličnih podataka („Službeni glasnik BiH", broj 12/25) (u daljem tekstu: Zakon), kao nosioci podataka podnosimo zahtjev da nam se omogući pristup našim ličnim podacima obrađenim putem videonadzora i **dostavi kopija** tih podataka:
 >
-> — **lokacija:** središnje dvorište i posjetilački ulaz, Stari grad Blagaj (Stjepan grad); **datum:** 9. septembar 2026.; **vrijeme:** približno 06:45–07:30 sati; **kamera:** pokretna kupolasta (PTZ) kamera na najvišoj kuli.
+> — **lokacija:** središnje dvorište i posjetilački ulaz, Stari grad Blagaj (Stjepan grad); **datum:** 9. septembar 2026.; **vrijeme:** približno 06:30–09:00 sati; **kamera:** pokretna kupolasta (PTZ) kamera na najvišoj kuli.
 >
 > Radi lakšeg pronalaženja podataka, a u skladu s članom 13. stav (2) Zakona, precizno navodimo vrijeme i mjesto našeg ulaska u prostor pod videonadzorom, te u prilogu dostavljamo kopije identifikacionih dokumenata i fotografije radi identifikacije. Ukoliko imate opravdane sumnje u naš identitet, na raspolaganju smo za dodatnu potvrdu u smislu člana 14. stav (7) Zakona, uključujući lični dolazak uz predočenje identifikacionog dokumenta.
 >
@@ -658,7 +658,7 @@ untested in published BiH practice. The one closely analogous decision ordered
 | | | |
 |---|---|---|
 | BH Telecom live-camera team | **webcam.banner@bhtelecom.ba** · support podrska@bhtelecom.ba · contact centre 1444 | S |
-| — their public Blagaj webcam records at full frame rate. Ask for the archive for 06:45–07:15 on 09.09.2026, and whether any preset faced Stjepan Grad. | | |
+| — their public Blagaj webcam records at full frame rate. Ask for the archive for 06:30–09:00 on 09.09.2026, and whether any preset faced Stjepan Grad. | | |
 
 ---
 
