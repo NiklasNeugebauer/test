@@ -3,6 +3,22 @@
 Governing law verified against the Agency's own published text of the statute.
 Article numbers below are checked against that text.
 
+## Files in this folder
+
+| File | What it is |
+|---|---|
+| `Zahtjevi-Stari-grad-Blagaj-2026-09-09.docx` | **The one you send.** Covering letter plus three requests, in Bosnian. Print, both sign, scan. |
+| `Zahtjevi-Stari-grad-Blagaj-2026-09-09.txt` | Same text, for pasting into an email body. |
+| `Antraege-DE-Referenzuebersetzung.docx` | Full German translation, **for your own reference — not for sending.** Only the Bosnian version is operative. |
+| `Antraege-DE-Referenzuebersetzung.txt` | Same, plain text. |
+| `README.md` | This file. |
+
+Each letter opens with a short plain-language account of what happened before
+any legal citation — the reader should understand the situation in three
+sentences and only then meet the statute. The legal framing is there to make
+internal processing easy for them, not to threaten, and the covering letter
+says so explicitly.
+
 ---
 
 # 1. Who operates the camera
@@ -119,6 +135,15 @@ APPEARING.** You are two people, so relative to each other you are each a
 Art. 17(4). A joint request in which each expressly consents to the other
 receiving footage showing you both removes that objection entirely. This is the
 single highest-value move available to you and it is built into the drafts below.
+
+**DO NOT EMAIL SCANS OF YOUR PASSPORTS.** The law lets a controller ask for
+further identification only where it has *reasonable doubts* (Art. 14(7)), so
+sending ID copies unprompted to a generic inbox is over-disclosure of your own
+data to a body you are still trying to identify. The letters instead **offer**
+identification and undertake to present photo ID in person. One wrinkle: the
+freedom-of-information route (Art. 11(3)) requires you to sign **and present**
+photo ID, so **Friday's hand-delivery is what perfects Request 2** — the email
+starts things moving, the in-person visit completes it.
 
 **DO NOT ALLEGE THE CAMERA IS UNLAWFUL, and do not ask the Agency to assess its
 lawfulness.** In published practice the standard remedy for unlawful
@@ -653,73 +678,75 @@ untested in published BiH practice. The one closely analogous decision ordered
 | Turistička zajednica HNŽ/K | +387 36 355 090 · info@hercegovina.ba | V |
 | Uprava za civilnu zaštitu i vatrogastvo HNŽ/K | 036 319 869 · cz.vatrogastvo.hnz@tel.net.ba | V |
 
-## Separate matter — the public webcam
-
-| | | |
-|---|---|---|
-| BH Telecom live-camera team | **webcam.banner@bhtelecom.ba** · support podrska@bhtelecom.ba · contact centre 1444 | S |
-| — their public Blagaj webcam records at full frame rate. Ask for the archive for 06:30–09:00 on 09.09.2026, and whether any preset faced Stjepan Grad. | | |
-
 ---
 
 # 8. Plan
 
-## Today, wherever you are
+## Today
 
-1. **Email Document 1 to the Agency.** This is the only thing that is genuinely
-   urgent. Phone 036 550-805 first to confirm the correct address.
-2. **Email webcam.banner@bhtelecom.ba** about the public webcam archive.
-3. **Open asgmo.ba yourselves** — it refuses datacentre IPs but will load from
-   an ordinary connection. Read *Downloads* / *Javne nabavke* for the Blagaj and
-   monitoring decisions: that is where the **security subcontractor's name**
-   should be, and that firm probably holds the recorder.
+1. **Email the packet to the Agency** — all four pages as one PDF to
+   **contact@asgmo.ba**. Phone **036 550-805** first to confirm that is the right
+   address for a data-subject request, and ask for the information officer by
+   name. Address the letter to *"Direktor Agencije 'Stari grad' Mostar"*.
+2. **Post the same packet, registered**, to Maršala Tita 170–172, 88104 Mostar.
+   **Keep the receipt** — proof of the delivery date is what starts every clock,
+   and published Agency case files have turned on exactly that proof.
+3. **Open asgmo.ba yourselves.** It refuses datacentre IPs but loads fine from an
+   ordinary connection. Read *Downloads* / *Javne nabavke* for the Blagaj and
+   monitoring decisions — the security contractor's name should be there.
+
+**Do not copy Grad Mostar on day one.** The freedom-of-information Act already
+obliges an incompetent body to forward a request to the right one within 8 days
+(Art. 13(1)), so a blanket copy buys little while spreading your names and
+contact details to a second institution. Hold it in reserve: send it only if the
+Agency fails to acknowledge the 48-hour preservation request, or denies that it
+operates the camera.
+
+**Do not write to Kamir or A.E. Sigurnost directly.** They are contractors, not
+the controller. The letters already name them and ask the Agency which of them
+holds the recordings — that is the right way to reach them, and it avoids handing
+your personal data to private firms with no duty to you.
 
 ## Also in Sarajevo, if there's time
 
-4. **Ring 033 726 250** (AZLP) and ask two things: whether they will informally
-   contact the controller about preservation, and whether they hold any Art. 32
-   record identifying a video-surveillance controller at Stari grad Blagaj.
-   Neither is an entitlement, but the call is free.
-5. **FMPU — Federalno ministarstvo prostornog uređenja, Hamdije Čemerlića 2,
-   71000 Sarajevo.** This is the body that approved the works and holds the
-   project file naming the installer. **Not KONS** — see the correction below.
-   Its information officer's name is redacted in its published guide, so address
-   the request to the post.
-6. **FMROI is in the same building, Hamdije Čemerlića 2** — the main funder of
-   the 2016 project. Absent a named officer, address the *Sekretar ministarstva*,
-   **Esed Ivojević**, esed.ivojevic@fmroi.gov.ba, +387 33 294 104. Two bodies,
-   one walk-in.
+4. **Ring 033 726 250** (the data protection Agency) and ask two things: whether
+   they will informally contact the controller about preservation, and whether
+   they hold any Art. 32 record identifying a video-surveillance controller at
+   Stari grad Blagaj. Neither is an entitlement; the call is free.
+5. **FMPU — Federalno ministarstvo prostornog uređenja, Hamdije Čemerlića 2.**
+   The body that approved the works and holds the project file naming the
+   installer. Its information officer's name is redacted in its published guide,
+   so address the request to the post.
+6. **FMROI is in the same building** — main funder of the 2016 project. Absent a
+   named officer, address the *Sekretar ministarstva*, **Esed Ivojević**,
+   esed.ivojevic@fmroi.gov.ba, +387 33 294 104. Two bodies, one walk-in.
 7. **Zavod za zaštitu spomenika, Obala Maka Dizdara 2** — owed the expert
-   supervision on the 2016 works. Odjel za operativno-tehničku zaštitu,
-   **+387 33 254 164**.
-8. **KONS, Maršala Tita 9A/1, 09:00–17:00** — still worth a visit, but for the
-   designation file (decision 06-6-1029/03-5), not for the consent.
-   **Correction: KONS does not issue intervention consents at all** — its
-   competence is designation, international cooperation, UNESCO nominations and
-   the export of movable heritage. That approval power is FMPU's.
+   supervision on the 2016 works. **+387 33 254 164**.
+8. **KONS, Maršala Tita 9A/1, 09:00–17:00** — for the designation file
+   (decision 06-6-1029/03-5) only. **KONS does not issue intervention consents**;
+   that power is FMPU's.
 
-**Note on expectations: nothing you do at the Agency in Sarajevo starts any
-clock.** Only delivery to the controller does — 30 days under Art. 14(3), 15 days
-under FOI Art. 14(4), both running from receipt. Sarajevo is for intelligence
-and advice, not for the deadline.
+**Nothing you do in Sarajevo starts a clock.** Only delivery to the Agency does —
+30 days under Art. 14(3), 15 days under FOI Art. 14(4), both running from
+receipt. Sarajevo is for intelligence and advice.
 
 ## Friday, on arrival in Mostar
 
-6. **Agencija "Stari grad", Maršala Tita 170–172, 08:00–16:00.** Hand-deliver
-   all three documents as one numbered packet and get the *potvrda o prijemu*.
-   Ask about the *Iluminacija Starog grada Blagaj* system and its videonadzor,
-   who monitors it now, and who to address requests to.
-7. KONS Mostar office, Bulevar Narodne revolucije do 19.
-8. In Blagaj: Dom kulture and the Tekija — both will know who has been up the
-   hill with equipment.
+9. **Agencija "Stari grad", Maršala Tita 170–172, 08:00–16:00.** Hand-deliver the
+   packet, **present your photo ID** (this is what perfects Request 2), and get
+   the *potvrda o prijemu*. Ask about the *Iluminacija Starog grada Blagaj* system
+   and its videonadzor, who monitors it now, and who to address requests to.
+10. KONS Mostar office, Bulevar Narodne revolucije do 19.
+11. In Blagaj: Dom kulture and the Tekija — both will know who has been up the
+    hill with equipment.
 
 ## At the fortress
 
 Photograph, in order: **(1)** any surveillance notice, close enough to read the
-small print — by law it names the controller and gives contact details; **(2)**
-the dome and the white box together, with any brand, model or asset labels;
-**(3)** the mounting point in context, so the aim is evident; **(4)** anything at
-the entrance — information board, heritage plaque, donor logo.
+small print — by law it names the controller and gives contact details;
+**(2)** the dome and the white box together, with any brand, model or asset
+labels; **(3)** the mounting point in context, so the aim is evident;
+**(4)** anything at the entrance — information board, heritage plaque, donor logo.
 
 Typical sign wording: **"OBJEKAT JE POD VIDEONADZOROM"** or **"PROSTOR JE POD
 VIDEONADZOROM"**, with a camera pictogram and beneath it *"Kontrolor podataka:
@@ -728,8 +755,6 @@ firm's logo appears instead — photograph both. **If there is no sign, photogra
 the absence, dated.**
 
 Photograph only. Do not touch the equipment.
-
----
 
 # 9. Don't bother with
 
@@ -748,3 +773,68 @@ Photograph only. Do not touch the equipment.
 The Agency's FAQ page and its publication *"Zaštita prava na privatnost i video
 nadzor"* (file metadata shows it was created in 2010) both still cite the
 repealed 2006 law and the abolished registration duty. Do not rely on either.
+
+---
+
+# Appendix — the public webcam, and why it is not part of the request
+
+Kept for completeness only. **None of this belongs in the letters**, and it has
+been removed from them: this is a different operator's camera, on the far side of
+the valley, showing a different scene. Asking the Agency about it would only
+confuse the request.
+
+## What it is
+
+A BH Telecom public webcam at Blagaj, branded *"moj radio" / "moja tv"*,
+syndicated on Windy as camera ID 1650525342, roughly 1.2 km from the village
+centre. It cycles between two presets — a close view of the Tekija at the Buna
+spring, and a wide view up the valley.
+
+## What was recovered from it
+
+Windy's player lists 24 frames a day, but the underlying store keeps every
+~10-minute poll and hides four of every five. Walking the timestamp chain
+recovered the hidden frames, giving a continuous record at ~10-minute spacing
+from 04:03:09 to 10:47:29 on 9 September 2026 — 41 captures, in
+`blagaj-2026-09-09-webcam/`.
+
+- **Closest frames to the moment: 06:56:14 and 07:06:34.** Every second between
+  06:35:35 and 07:26:44 was probed, so nothing nearer 07:00 exists in that
+  archive.
+- **The fortress appears in exactly two frames** all day — 06:46:05 (dawn
+  silhouette) and 07:57:07 (daylight, which is what confirms the shapes are
+  masonry rather than karst).
+- Windy's `day` store is a rolling 24 hours, so these would have been gone the
+  following morning.
+
+## Why it could never have shown you
+
+The camera sits **below** the fortress, so the courtyard floor is hidden behind
+the curtain wall — the parapet resolves, anything standing inside does not. Scale
+is roughly 0.3 m per pixel, making a person one to two pixels. The archive's
+`original` size is byte-identical to `full`, so 1920×1080 is a hard ceiling, not
+a setting that could be raised.
+
+## Ruled out alongside it
+
+- **No mirror** samples that feed on a different schedule — checked across the
+  usual aggregators; see.cam re-serves Windy's own images and has no stream
+  recording.
+- **No other public camera** has a sightline to the fortress. Of 79
+  Windy-syndicated cameras in BiH this is the only one at Blagaj; the rest in the
+  region are forecourt, border and roadside cameras 20 km or more away.
+- **The cantonal wildfire network** (18 PTZ cameras, run from the civil
+  protection operational centre in Mostar) has no public feed or archive. Two of
+  its sites — Mostar/Fortica and Stolac/Hrgud — are conceivably in distant
+  sightline, but a request would have to go to the canton on 036 319 869.
+- **Satellite imagery** is useless here: the high-resolution constellations cross
+  mid-morning, not at 07:00, and at 30 cm resolution a person is one or two
+  pixels.
+
+## The one contact, if you ever want it
+
+BH Telecom's live-camera team, **webcam.banner@bhtelecom.ba** (secondary source;
+support podrska@bhtelecom.ba, contact centre 1444). Their own recording runs at
+full frame rate rather than one frame per ten minutes. No published retention
+policy was found. **Send this separately, if at all — never as part of the packet
+to the Agency.**
