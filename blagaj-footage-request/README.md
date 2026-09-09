@@ -110,12 +110,17 @@ disposing of the rest.
 
 | | ZZLP Art. 17 (access) | FBiH freedom of information |
 |---|---|---|
-| Deadline | 30 days (+60 extension) | **15 days** |
+| Deadline | 30 days (+60 extension), Art. 14(3) | **15 days**, Art. 14(6) |
 | Third-party bar | Art. 17(4), "rights and freedoms of others" | Art. 8 protects a **third person** — not your own data |
 | Redaction | EDPB guidance, persuasive only | **Art. 10 severance, statutory** |
 | Forces a formal decision | No | **Yes — a *rješenje* with appeal instructions** |
 | Enforcement teeth | **Strong** — Agency can order production | Weaker (administrative appeal, Ombudsman) |
 | Works if controller is private | **Yes** | No |
+
+> **On the FOI deadline:** it is **Art. 14(6)**, not 14(4). The 2011 amendments
+> inserted new paragraphs and renumbered — 14(4) is now the eight-day *prigovor*
+> to the head of the body. An earlier draft of this pack cited 14(4), which
+> reproduces pre-2011 numbering and would read as an error to the recipient.
 
 **Order:** (1) preservation request — the only genuinely time-critical item;
 (2) the FOI request — fastest clock and forces an appealable decision; (3) the
@@ -200,15 +205,20 @@ Agencija "Stari grad" Mostar. Both partners sign all three.
 >
 > **Prilozi:** kopije identifikacionih dokumenata podnosilaca.
 
-**English summary.** Under Art. 20(1)(c) and (2), read with Arts. 14(2) and 17,
-we urgently request that footage containing our personal data not be deleted,
+**English summary.** Under Art. 14(2) — the controller's duty to facilitate the
+exercise of rights — we urgently request that footage containing our personal data not be deleted,
 overwritten or rendered inaccessible — location, date, 06:30–09:00, camera as
 described; the persons recorded are the two signatories and to our knowledge no
 others were in frame. We require it **for the establishment and exercise of
-legal claims** within Art. 20(1)(c). Under Art. 20(2) restricted data **may be
-stored** and deletion is not permitted without our consent. Confirm within 48
+legal claims** within Art. 20(1)(c), and — should the processing be unlawful for
+any reason — on Art. 20(1)(b), while **expressly opposing erasure**. Under Art.
+20(2) restricted data may be processed only with consent, subject to the
+exceptions there set out, of which **storage** is one; erasure is not among them.
+We also note that the 30-day limit in Art. 14(3) is a deadline to **answer** the
+request, not a period in which its subject matter may be destroyed. Confirm within 48
 hours: that it has been extracted and preserved, with your internal reference;
-the retention period fixed by your Art. 57(4) decision; the controller's
+what retention applies and what your Art. 57(4) decision provides, if one
+exists; the controller's
 identity and Art. 57(5) contact details; and your data protection officer.
 Please export it to a file and copy it off the device.
 
@@ -249,7 +259,8 @@ the applicants, filed under Art. 11(3) — signed personally, photo ID presented
 The Art. 8 exemption protects a *third person* and does not reach the
 applicants' own data; if any part is exempt we request Art. 10 severance
 including blurring of third parties. Each applicant consents to the other
-receiving information showing both. **15-day** deadline under Art. 14(4), with a
+receiving information showing both, each filing in their own name and
+authorising the other. **15-day** deadline under Art. 14(6), with a
 decision carrying appeal instructions; transfer under Art. 13(1) if not
 competent; no fee under Art. 16.
 
@@ -292,7 +303,7 @@ processed by video surveillance and **provision of a copy**. Time and place of
 entry specified to assist location under Art. 13(2), with ID and photographs
 attached and further verification offered under Art. 14(7). Also the Art.
 17(1)(a)–(h) information, including the **retention period**, and a copy of the
-Art. 57(4) video-surveillance decision. Third-party statement: no others in
+Art. 57(4) video-surveillance decision, if one exists. Third-party statement: no others in
 frame to our knowledge; **each of us expressly consents** to the other receiving
 footage showing us both, waiving Art. 17(4) to that extent; and if any third
 party is in frame we accept a copy with blurring or masking applied and will
@@ -464,8 +475,10 @@ reportable to the Ombudsman in its own right if it stonewalls.
 # 5. Your legal position in detail
 
 **The law:** Zakon o zaštiti ličnih podataka, "Službeni glasnik BiH" br. 12/25 —
-published 28.02.2025, in force 08.03.2025, applicable from **04.10.2025** (Art.
-120). Art. 119 repealed the 2006 law and its bylaws. GDPR-aligned; BiH numbering
+published 28.02.2025, in force 08.03.2025, and **in application since October
+2025** — Art. 120 sets no calendar date, giving only "210 days after entry into
+force", and sources split between 4 and 5 October. **Do not cite a specific
+day**; say "since October 2025" or quote the formula. Art. 119 repealed the 2006 law and its bylaws. GDPR-aligned; BiH numbering
 runs **GDPR + 2** in Part Two (GDPR 15 → BiH 17).
 
 - **Art. 17(3)** — the controller "osigurava kopiju ličnog podatka koji se
@@ -480,19 +493,40 @@ runs **GDPR + 2** in Part Two (GDPR 15 → BiH 17).
 - **Art. 13(2)** — if the controller genuinely cannot identify you, Arts. 17–22
   don't apply *unless* you supply identifying information. Hence stating the
   exact time and spot.
-- **Art. 20(1)(c) and (2)** — restriction of processing where you need the data
-  to establish or exercise legal claims; once restricted, the data "smije se
-  obrađivati samo uz saglasnost nosioca podataka, **izuzev čuvanja**" — storage
-  is mandated, deletion is not permitted. This is the preservation hook. It is
-  arguable rather than certain, but it is the correct citation.
+- **Art. 14(2)** — "Kontrolor podataka olakšava ostvarivanje prava nosioca
+  podataka iz čl. 17. do 24." The duty to *facilitate* the exercise of rights.
+  **This is the primary preservation hook**, and the safest: destroying the very
+  data that is the subject of a pending access request defeats it. Pair it with
+  the point that Art. 14(3)'s 30 days is a deadline to answer, not a licence to
+  destroy meanwhile.
+- **Art. 20 — restriction of processing**, pleaded in the alternative. Two limbs
+  matter, and the obvious one is the weaker:
+  - **20(1)(c)** (data no longer needed by the controller, but required by you
+    "radi postavljanja, ostvarivanja ili odbrane pravnih zahtjeva") reads well
+    but has three problems: wanting a personal copy of a private moment is not
+    obviously a *pravni zahtjev*; the limb also requires that the controller no
+    longer needs the data, which you cannot show and they decide; and it carries
+    no urgency mechanism.
+  - **20(1)(b)** (processing unlawful, and the data subject opposes erasure and
+    seeks restriction instead) needs neither a legal claim nor that precondition,
+    and would apply squarely if the Art. 57(5) signage is missing. It is pleaded
+    **conditionally** — "should the processing be unlawful for any reason" — and
+    always alongside an express statement that you **oppose erasure**. That
+    wording is what keeps this from becoming an unlawfulness complaint, whose
+    remedy is deletion.
+  - **20(2)** in full: restricted data "smije se obrađivati samo uz saglasnost
+    nosioca podataka, **izuzev čuvanja**, ili za postavljanje, ostvarivanje ili
+    odbranu pravnih zahtjeva ili zaštitu prava drugog fizičkog ili pravnog lica
+    ili zbog važnog javnog interesa." **Never quote it truncated at "izuzev
+    čuvanja"** — a public body will check.
 - **Art. 57(5)** — the notice must state that the area is monitored, who the
   controller or processor is, **and contact details for exercising your rights**,
   visible "najkasnije prilikom ulaska u vidokrug snimanja".
-- **Art. 57(4)** — the controller must adopt a video-surveillance decision
-  stating the area, purpose, number of cameras, what each covers, **the retention
-  period**, and how data subjects exercise their rights. Asking for a copy of
-  that decision is a cheap, strong first move: it discloses the retention period
-  and the access procedure.
+- **Art. 57(4)** — the controller must adopt a decision containing "pravila
+  obrade" aimed at respecting privacy, **and only where the surveillance is not
+  prescribed by law**. **It does not mention a retention period.** Ask for the
+  decision and ask what retention it sets — but do not assert the statute
+  requires it to state one. (An earlier draft of this pack did; that was wrong.)
 - **Art. 37(3)(c)** — a DPIA is mandatory for systematic large-scale monitoring
   of publicly accessible areas. Leverage, not a route to the footage.
 - **Art. 108(1)** — right to complain to the Agency, expressly "ne dovodeći u
@@ -727,7 +761,7 @@ your personal data to private firms with no duty to you.
    that power is FMPU's.
 
 **Nothing you do in Sarajevo starts a clock.** Only delivery to the Agency does —
-30 days under Art. 14(3), 15 days under FOI Art. 14(4), both running from
+30 days under Art. 14(3), 15 days under FOI Art. 14(6), both running from
 receipt. Sarajevo is for intelligence and advice.
 
 ## Friday, on arrival in Mostar
@@ -838,3 +872,54 @@ support podrska@bhtelecom.ba, contact centre 1444). Their own recording runs at
 full frame rate rather than one frame per ten minutes. No published retention
 policy was found. **Send this separately, if at all — never as part of the packet
 to the Agency.**
+
+---
+
+# Appendix B — verification record
+
+The statute citations in this pack were re-checked from scratch against the
+Official Gazette text of the data protection law and the Agency's own published
+copy of it, which were diffed against each other (Arts. 14, 17, 20, 39 and 57 are
+byte-identical between the two), plus the consolidated and original texts of the
+FBiH freedom-of-information Act.
+
+**Verified:** the governing statute and its gazette number; Art. 17(1), (3) and
+(4); Art. 14(3), (5), (6) and (7); Art. 20(1) and (2) in full; Art. 57(5) and
+(6); Art. 39(1)(a) and (7); the absence of any statutory retention rule for CCTV
+footage; and FBiH FOI Arts. 8, 10, 11(2), 11(3) and 16.
+
+**Corrected as a result:**
+
+1. **Art. 57(4) does not mention a retention period.** It requires only "pravila
+   obrade" and applies only where the surveillance is not prescribed by law. The
+   letters now ask what the decision provides instead of asserting what it must
+   contain.
+2. **The FOI 15-day deadline is Art. 14(6), not 14(4)** — renumbered by the 2011
+   amendments.
+3. **The preservation request is re-pleaded.** Art. 20(1)(c) alone was weak: it
+   needs an actual legal claim and requires that the controller no longer need
+   the data. The primary basis is now **Art. 14(2)**, the duty to facilitate the
+   exercise of rights, with 20(1)(c) in the alternative and 20(1)(b) conditional
+   on unlawfulness and always coupled with an express objection to erasure.
+4. **No specific application date is cited.** Art. 120 gives a formula, not a
+   date, and sources split between 4 and 5 October 2025.
+5. **Art. 20(2) is never quoted truncated.** The full paragraph carries four
+   exceptions beyond storage; quoting it short would be caught.
+
+**Traps recorded so they are not walked into later:**
+
+- Arts. 61 and 72 (retention set by special law; preservation as evidence) sit in
+  the **law-enforcement chapter** and do not apply to a monument operator. Do not
+  cite them.
+- The "Zakon o zaštiti ličnih podataka" PDF published on parliament.ba is the
+  **old 49/06 consolidated text**, not the current law.
+- Art. 57(6)'s twelve-month log duty attaches to "javno dostupnih objekata
+  velikih površina" and the statutory list is illustrative, so whether a fortress
+  qualifies is arguable. The letters ask for the log conditionally.
+
+**Still not established:** no published decision of the supervisory Agency
+ordering footage released to a data subject could be found. The right to a copy
+is plain on the face of Art. 17(3) but appears untested in published practice
+there. And while the operator is well evidenced as Agencija "Stari grad" Mostar,
+it has not been confirmed as the *registered* controller for that specific
+camera — which is why the letters also ask who the controller is.

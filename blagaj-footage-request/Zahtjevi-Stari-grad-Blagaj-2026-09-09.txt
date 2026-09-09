@@ -61,7 +61,7 @@ Poštovani,
 
 dana 9. septembra 2026. godine, oko 7 sati ujutro, zaručili smo se na Starom gradu Blagaj. Vlastita kamera nam je otkazala, pa nemamo nijednu fotografiju tog trenutka. Snimak videonadzora s tog jutra jedini je zapis koji možda postoji, i zbog toga Vam se obraćamo.
 
-Na osnovu člana 20. stav (1) tačka c) i stava (2), a u vezi s članom 14. stav (2) i članom 17. Zakona o zaštiti ličnih podataka („Službeni glasnik BiH", broj 12/25), podnosimo hitan zahtjev da se ne izbriše, ne prepiše i ni na koji drugi način ne učini nedostupnim snimak videonadzora koji sadrži naše lične podatke, i to:
+Na osnovu člana 14. stav (2) Zakona o zaštiti ličnih podataka („Službeni glasnik BiH", broj 12/25) (u daljem tekstu: Zakon), prema kojem kontrolor podataka olakšava ostvarivanje prava nosioca podataka iz čl. 17. do 24. Zakona, podnosimo hitan zahtjev da se ne izbriše, ne prepiše i ni na koji drugi način ne učini nedostupnim snimak videonadzora koji sadrži naše lične podatke, i to:
 
     — lokacija: središnje dvorište i posjetilački ulaz, Stari grad Blagaj (Stjepan grad);
 
@@ -73,7 +73,9 @@ Na osnovu člana 20. stav (1) tačka c) i stava (2), a u vezi s članom 14. stav
 
     — osobe na snimku: potpisnici ovog zahtjeva; prema našem saznanju, u kadru se u navedenom periodu nisu nalazila druga lica.
 
-Izjavljujemo da navedeni snimak zahtijevamo radi postavljanja i ostvarivanja pravnih zahtjeva u smislu člana 20. stav (1) tačka c) Zakona, uključujući ostvarivanje prava na pristup ličnom podatku iz člana 17. Zakona. U skladu s članom 20. stav (2) Zakona, ograničena obrada podrazumijeva da se lični podatak smije čuvati, te da njegovo brisanje nije dopušteno bez naše saglasnosti.
+Brisanje ili prepisivanje ovog snimka nakon prijema našeg zahtjeva onemogućilo bi ostvarivanje prava na pristup iz člana 17. Zakona, čime bi obaveza iz člana 14. stav (2) Zakona ostala neispunjena. Napominjemo da rok od 30 dana iz člana 14. stav (3) Zakona predstavlja rok za postupanje po zahtjevu, a ne razdoblje u kojem se predmet zahtjeva smije uništiti.
+
+Podredno, pozivamo se i na pravo na ograničenje obrade iz člana 20. Zakona: na stav (1) tačku c), budući da snimak zahtijevamo radi postavljanja i ostvarivanja pravnih zahtjeva; a ukoliko bi obrada iz bilo kojeg razloga bila nezakonita, i na stav (1) tačku b) — pri čemu se izričito protivimo brisanju snimka i umjesto toga tražimo ograničenje njegove obrade. U skladu s članom 20. stav (2) Zakona, ograničeni lični podatak smije se obrađivati samo uz saglasnost nosioca podataka, uz izuzetke propisane tim stavom, među kojima je i čuvanje; brisanje tim izuzecima nije obuhvaćeno.
 
 Molimo da se snimak izveze u zasebnu datoteku i kopira s uređaja, kako ne bi bio zahvaćen automatskim prepisivanjem. Ukoliko je sistem videonadzora povjeren vanjskom izvođaču, molimo da nas obavijestite koje pravno lice drži snimke ili im ima pristup, te da li ono postupa kao obrađivač u smislu Zakona.
 
@@ -81,7 +83,7 @@ Molimo da nas, bez odgađanja i najkasnije u roku od 48 sati od prijema ovog zah
 
     1. da je snimak izdvojen i sačuvan (uz naznaku broja i datuma internog akta);
 
-    2. o roku čuvanja snimaka utvrđenom Vašom odlukom o videonadzoru iz člana 57. stav (4) Zakona;
+    2. koji je rok čuvanja snimaka na navedenoj lokaciji, te šta o tome propisuje Vaša odluka o videonadzoru iz člana 57. stav (4) Zakona, ako je donesena;
 
     3. o identitetu kontrolora podataka i kontakt podacima putem kojih ostvarujemo svoja prava (član 57. stav (5) Zakona);
 
@@ -134,9 +136,13 @@ Tražena informacija predstavlja informaciju u smislu člana 3. tačka 1) ZoSPI 
 
 Zahtjev pod tačkom 1. odnosi se na osobnu informaciju u smislu člana 3. tačka 4) ZoSPI FBiH, koja se odnosi na podnosioce. U skladu s članom 11. stav (3) ZoSPI FBiH, zahtjev podnose fizička lica na koja se informacija odnosi, koja ga svojeručno potpisuju; identifikacione dokumente s fotografijom predočit ćemo prilikom podnošenja, odnosno prilikom ličnog dolaska u Vaše prostorije.
 
+Svaki potpisnik podnosi ovaj zahtjev u vlastito ime, kao lice na koje se informacija odnosi, a istovremeno ovim putem pisano ovlašćuje drugog potpisnika za pristup informaciji na kojoj se nalaze oba potpisnika — sve u smislu člana 11. stav (3) ZoSPI FBiH.
+
+Napominjemo i da se, u skladu s članom 53. stav (2) Zakona o zaštiti ličnih podataka („Službeni glasnik BiH", broj 12/25), taj zakon primjenjuje i prilikom primjene propisa o slobodi pristupa informacijama u Bosni i Hercegovini.
+
 Ističemo da izuzetak iz člana 8. ZoSPI FBiH štiti privatnost treće osobe, te se ne odnosi na pristup vlastitim osobnim informacijama podnosilaca. Ukoliko bi dio tražene informacije bio utvrđen kao izuzetak, tražimo primjenu člana 10. ZoSPI FBiH — izdvajanje tog dijela i priopćavanje ostatka, uključujući zamućivanje ili maskiranje lika trećih lica. Svaki od podnosilaca izričito daje saglasnost da se drugom podnosiocu priopći informacija na kojoj se nalaze oba podnosioca.
 
-Molimo postupanje u roku iz člana 14. stav (4) ZoSPI FBiH — najkasnije 15 dana od dana prijama zahtjeva — te donošenje rješenja s poukom o pravnom lijeku. Ukoliko Vaš organ nije nadležan, molimo postupanje u smislu člana 13. stav (1) ZoSPI FBiH.
+Molimo postupanje u roku iz člana 14. stav (6) ZoSPI FBiH — najkasnije 15 dana od dana prijama zahtjeva — te donošenje rješenja s poukom o pravnom lijeku. Ukoliko Vaš organ nije nadležan, molimo postupanje u smislu člana 13. stav (1) ZoSPI FBiH.
 
 U skladu s članom 16. ZoSPI FBiH, za podneseni zahtjev, rješenje ili obavještenje ne naplaćuje se naknada niti pristojba. Spremni smo podmiriti troškove umnožavanja i dostaviti vlastiti nosač podataka (USB).
 
@@ -177,7 +183,7 @@ Radi lakšeg pronalaženja podataka, a u skladu s članom 13. stav (2) Zakona, p
 
 Uz kopiju snimka, na osnovu člana 17. stav (1) tač. a) do h) Zakona, tražimo i informacije o: svrsi obrade; kategoriji ličnih podataka; primaocima ili kategorijama primalaca; predviđenom roku čuvanja odnosno kriterijima za njegovo određivanje; pravu na ispravku, brisanje i ograničenje obrade te pravu na prigovor; pravu na podnošenje prigovora Agenciji za zaštitu ličnih podataka u BiH ili tužbe nadležnom sudu; izvoru podataka; te postojanju automatiziranog donošenja odluka.
 
-Dodatno tražimo kopiju odluke o videonadzoru iz člana 57. stav (4) Zakona, kao i evidenciju o pristupu sistemu videonadzora iz člana 57. stav (6) Zakona za navedeni dan, ako se takva evidencija vodi.
+Dodatno tražimo kopiju odluke o videonadzoru iz člana 57. stav (4) Zakona, ako je donesena, kao i evidenciju o pristupu sistemu videonadzora iz člana 57. stav (6) Zakona za navedeni dan, ako se takva evidencija vodi.
 
 Izjava o pravima trećih lica. Svjesni smo člana 17. stav (4) Zakona, prema kojem pravo na dobivanje kopije ne smije negativno uticati na prava i slobode drugih. S tim u vezi izjavljujemo:
 
