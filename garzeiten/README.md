@@ -30,8 +30,13 @@ Der Satz wurde anhand der Differenzbilder an das Original angeglichen: Schriftgr
 
 Die Korrelationswerte in `schwierige_faelle` sind nur ein schwacher Hinweis: Die Nenner der Brüche sind so klein und abgerieben, dass sich die Lesarten nur um wenige Hundertstel unterscheiden. Maßgeblich ist der visuelle Vergleich im Differenzbild (z. B. ist bei Kartoffeln in der Schale und Rote Rüben der Bindestrich und ein zweiter Bruch im Original klar erkennbar, obwohl der Wert eine Einzelmenge bevorzugt).
 
+## Satz-Details nach Vorbild des Originals
+- Kopfzeile „eingeweicht / nicht eingeweicht“ auf Seite 15 ist wie im Original kleiner gesetzt (78 %).
+- Zu lange Zellen werden automatisch in der Laufweite verengt, statt in die Nachbarspalte zu laufen (Namen bis zur Garzeit- bzw. Einweich-Spalte, Einsatz bis zur Wasser-Spalte, Wassermenge bis knapp über den Tabellenrand, wie es das Original bei „mit Wasser bedecken“ auch tut).
+- Wassermengen, die im Original so abgerieben sind, dass die Lesung unsicher bleibt, sind im PDF **rot unterstrichen** (Fußnote auf Seite 15). In der CSV beginnt ihre `anmerkung` mit `UNSICHER:`.
+
 ## Unsichere Lesungen
-Die Wassermengen-Brüche (⅛ l, ¼ l, ½ l) sind im Original stark abgerieben. Entschieden wurde nach der Form des Nenners (x-förmig = 8, offen = 4) und nach dem Kontext; alle nicht eindeutig lesbaren Zellen sind in der Spalte `anmerkung` markiert:
-Ragout oder Gulasch (Fisch), Hähnchen ganz, Grünkohl/Rotkohl, Kartoffeln in der Schale, Kohlrouladen/Krautwickel, Rote Rüben/Bete, Schwarzwurzeln, Zwiebeln ganze sowie die erste Ziffer bei Rebhühner (3–6 Eßlöffel, analog Fasan).
+Die Wassermengen-Brüche (⅛ l, ¼ l, ½ l) sind im Original stark abgerieben. Entschieden wurde nach der Form des Nenners (x-förmig = 8, offen = 4) und nach dem Kontext, anschließend anhand der Overlay-Blätter manuell geprüft. Dabei bestätigt bzw. korrigiert: Steinobst, Kastanien und Kernobst → ⅛ l; Kartoffeln in der Schale ⅛–¼ l und Grünkohl/Rotkohl ¼ l bestätigt.
+Weiterhin unsicher (rot unterstrichen): Ragout oder Gulasch (Fisch) ⅛ l, Hähnchen ganz ⅛ l, Kohlrouladen/Krautwickel ⅛–¼ l, Rote Rüben/Bete ¼–½ l, Sauerkraut ¼ l, Schwarzwurzeln ¼ l, Zwiebeln ganze ¼ l sowie die erste Ziffer bei Rebhühner (3–6 Eßlöffel, analog Fasan).
 
 Nicht reproduziert: der Bibliotheksstempel unten auf Seite 15 (die Seitenzahl 15 darunter ist im Original verdeckt und wurde ergänzt).

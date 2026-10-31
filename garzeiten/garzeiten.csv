@@ -1,8 +1,8 @@
 seite,typ,gruppe,label,symbol,gericht,garzeit_eingeweicht_min,garzeit_min,einsatz,wasser,anmerkung
 12,eintrag,Fisch,,○,"Fisch, in Scheiben\ngeschnitten, gedünstet",,1–2,,4–6 Eßlöffel,
-12,eintrag,Fisch,,,"Ganze Fische oder\ngrößere Stücke",,2–3,E gelocht,mit Sud bedecken,
+12,eintrag,Fisch,,,Ganze Fische oder\ngrößere Stücke,,2–3,E gelocht,mit Sud bedecken,
 12,eintrag,Fisch,,○,Ganze Fische im eigenen Saft,,5–7,,0–4 Eßlöffel,
-12,eintrag,Fisch,,○,Ragout oder Gulasch,,2–3,,⅛ l,Bruch abgerieben; ⅛ aus Kontext (Gulasch) ergänzt
+12,eintrag,Fisch,,○,Ragout oder Gulasch,,2–3,,⅛ l,UNSICHER: Bruch abgerieben; ⅛ aus Kontext (Gulasch) ergänzt
 12,hinweis,Fleisch,Fleisch,,(Schnellbratpfanne nur bis 800 g geeignet),,,,,
 12,eintrag,Rindfleisch,Rindfleisch,○,Braten (je nach Größe),,35–45,,⅛–¼ l,
 12,eintrag,Rindfleisch,,○,Geschnetzeltes,,6– 8,,0–4 Eßlöffel,
@@ -40,9 +40,9 @@ seite,typ,gruppe,label,symbol,gericht,garzeit_eingeweicht_min,garzeit_min,einsat
 13,eintrag,Lamm und Hammel,,○,Lammkoteletts,,3– 4,,0–4 Eßlöffel,
 13,eintrag,Hackfleisch,Hackfleisch,○,Hackbraten,,10–15,,⅛–¼ l,
 13,eintrag,Hackfleisch,,○,Hackbeefsteaks,,5– 7,,4 Eßlöffel–⅛ l,
-13,eintrag,Hackfleisch,,*,"Terrinen\n(Pasteten im Wasserbad)",,35–40,E mit\nFüßchen,Wasser bis zum\nSiebeinsatz,
+13,eintrag,Hackfleisch,,*,Terrinen\n(Pasteten im Wasserbad),,35–40,E mit\nFüßchen,Wasser bis zum\nSiebeinsatz,
 13,eintrag,Geflügel,Geflügel,○,Geflügelteile,,6– 8,,4 Eßlöffel–⅛ l,
-13,eintrag,Geflügel,,,"Hähnchen, ganz",,15–20,E,⅛ l,Bruch stark abgerieben; ⅛ l nicht sicher lesbar
+13,eintrag,Geflügel,,,"Hähnchen, ganz",,15–20,E,⅛ l,UNSICHER: Bruch stark abgerieben; ⅛ l nicht sicher lesbar
 13,eintrag,Geflügel,,,"Huhn, ganz (Poularde)",,16–20,E gelocht,⅛–¼ l,
 13,eintrag,Geflügel,,*,"Huhn, ganz (Suppenhuhn)",,30–45,E gelocht,mit Wasser bedecken,
 13,eintrag,Geflügel,,○,"Truthahn, Rollbraten",,18–25,,⅛–¼ l,
@@ -54,7 +54,7 @@ seite,typ,gruppe,label,symbol,gericht,garzeit_eingeweicht_min,garzeit_min,einsat
 14,eintrag,Wild,,,Hirschbraten,,25–30,,⅛ l,
 14,eintrag,Wild,,○,Hirschgulasch,,15–20,,⅛–¼ l,
 14,eintrag,Wild,,○,"Reh-, Hasen-, Hirsch-,\nWildschweinpfeffer",,15–18,,⅛–¼ l,
-14,eintrag,Wild,,,Rebhühner,,12–20,,3–6 Eßlöffel,erste Ziffer der Wassermenge abgerieben; 3 analog zu Fasan ergänzt
+14,eintrag,Wild,,,Rebhühner,,12–20,,3–6 Eßlöffel,UNSICHER: erste Ziffer der Wassermenge abgerieben; 3 analog zu Fasan ergänzt
 14,eintrag,Wild,,,Fasan,,12–15,,3–6 Eßlöffel,
 14,eintrag,"Gemüse, Kartoffeln","Gemüse,",,Artischocken,,8–12,E gelocht,¼ l,
 14,eintrag,"Gemüse, Kartoffeln",Kartoffeln,○,Auberginen (Eierfrüchte),,1– 2,,0–3 Eßlöffel,
@@ -63,30 +63,30 @@ seite,typ,gruppe,label,symbol,gericht,garzeit_eingeweicht_min,garzeit_min,einsat
 14,eintrag,"Gemüse, Kartoffeln",,○,Chicorée (Brüsseler Endivien),,3,,⅛ l,
 14,eintrag,"Gemüse, Kartoffeln",,,"Erbsen, grüne",,2– 4,E,⅛ l,
 14,eintrag,"Gemüse, Kartoffeln",,,Fenchel,,5– 8,E gelocht,⅛ l,
-14,eintrag,"Gemüse, Kartoffeln",,,"Grünkohl, Rotkohl",,8–10,E gelocht,¼ l,Bruch abgerieben; ¼ l nicht sicher lesbar
+14,eintrag,"Gemüse, Kartoffeln",,,"Grünkohl, Rotkohl",,8–10,E gelocht,¼ l,Bruch abgerieben; ¼ l nach Overlay-Prüfung bestätigt
 14,eintrag,"Gemüse, Kartoffeln",,○,Gurken,,1– 2,,0–3 Eßlöffel,
 14,eintrag,"Gemüse, Kartoffeln",,,Karotten,,5– 8,E gelocht,⅛ l,
 14,eintrag,"Gemüse, Kartoffeln",,,"Kartoffeln, in Stücken",,4– 5,E gelocht,¼ l,
-14,eintrag,"Gemüse, Kartoffeln",,*,Kartoffeln in der Schale,,6–10,E gelocht,⅛–¼ l,Brüche abgerieben; ⅛–¼ l nicht sicher lesbar
+14,eintrag,"Gemüse, Kartoffeln",,*,Kartoffeln in der Schale,,6–10,E gelocht,⅛–¼ l,Brüche abgerieben; ⅛–¼ l nach Overlay-Prüfung bestätigt
 14,eintrag,"Gemüse, Kartoffeln",,○,"Kartoffelscheiben, roh,\ngedünstet (Schnellbratpfanne)",,10–12,,0–3 Eßlöffel,
 14,eintrag,"Gemüse, Kartoffeln",,,"Kartoffelklöße, gekocht",,3– 5,E gelocht,¼ l,
 14,eintrag,"Gemüse, Kartoffeln",,,"Kartoffelklöße, roh",,7– 9,E gelocht,¼ l,
 14,eintrag,"Gemüse, Kartoffeln",,,Kohlrabi,,4– 5,E gelocht,¼ l,
-14,eintrag,"Gemüse, Kartoffeln",,,Kohlrouladen/Krautwickel,,8–10,E gelocht,⅛–¼ l,Brüche abgerieben; ⅛–¼ l nicht sicher lesbar
+14,eintrag,"Gemüse, Kartoffeln",,,Kohlrouladen/Krautwickel,,8–10,E gelocht,⅛–¼ l,UNSICHER: Brüche abgerieben; ⅛–¼ l nicht sicher lesbar
 14,eintrag,"Gemüse, Kartoffeln",,,Maiskolben (Süßmais),,5– 6,E gelocht,¼ l,
 14,eintrag,"Gemüse, Kartoffeln",,○,"Paprikaschoten, Peperoni",,3– 4,,3 Eßlöffel,
 14,eintrag,"Gemüse, Kartoffeln",,,Porree/Lauch,,3– 4,E gelocht,¼ l,
 14,eintrag,"Gemüse, Kartoffeln",,○,Pilze,,3– 5,,0–3 Eßlöffel,
 14,eintrag,"Gemüse, Kartoffeln",,,Rosenkohl,,3– 5,E gelocht,¼ l,
-15,eintrag,"Gemüse, Kartoffeln",,,Rote Rüben/Bete,,15–25,E gelocht,¼–½ l,Brüche abgerieben; ¼–½ l nicht sicher lesbar
-15,eintrag,"Gemüse, Kartoffeln",,,Sauerkraut,,15–20,,¼ l,Wassermenge steht in der Einsatz-Spalte
-15,eintrag,"Gemüse, Kartoffeln",,,Schwarzwurzeln,,10–15,E gelocht,¼ l,Bruch abgerieben; ¼ l nicht sicher lesbar
+15,eintrag,"Gemüse, Kartoffeln",,,Rote Rüben/Bete,,15–25,E gelocht,¼–½ l,UNSICHER: Brüche abgerieben; ¼–½ l nicht sicher lesbar
+15,eintrag,"Gemüse, Kartoffeln",,,Sauerkraut,,15–20,,¼ l,UNSICHER: Wassermenge steht in der Einsatz-Spalte
+15,eintrag,"Gemüse, Kartoffeln",,,Schwarzwurzeln,,10–15,E gelocht,¼ l,UNSICHER: Bruch abgerieben; ¼ l nicht sicher lesbar
 15,eintrag,"Gemüse, Kartoffeln",,,"Sellerie, in Scheiben",,4– 6,E gelocht,¼ l,
 15,eintrag,"Gemüse, Kartoffeln",,,Spargel,,5–10,E gelocht,¼ l,
 15,eintrag,"Gemüse, Kartoffeln",,○,Spinat,,1– 3,,0–3 Eßlöffel,
 15,eintrag,"Gemüse, Kartoffeln",,○,Tomaten,,1– 2,,0–3 Eßlöffel,
 15,eintrag,"Gemüse, Kartoffeln",,,Wirsing,,5– 7,E gelocht,⅛ l,
-15,eintrag,"Gemüse, Kartoffeln",,,"Zwiebeln, ganze",,6–10,E gelocht,¼ l,Bruch abgerieben; ¼ l nicht sicher lesbar
+15,eintrag,"Gemüse, Kartoffeln",,,"Zwiebeln, ganze",,6–10,E gelocht,¼ l,UNSICHER: Bruch abgerieben; ¼ l nicht sicher lesbar
 15,spaltenkopf,"Hülsenfrüchte, Reis, Teigwaren",,,,eingeweicht,nicht eingeweicht,,,
 15,eintrag,"Hülsenfrüchte, Reis, Teigwaren","Hülsenfrüchte,",*,"Bohnen, weiße",6–8,20–25,E gelocht,mit Wasser bedeckt,
 15,eintrag,"Hülsenfrüchte, Reis, Teigwaren","Reis,",*,Erbsen,6–8,18–22,E,mit Wasser bedeckt,
@@ -99,9 +99,9 @@ seite,typ,gruppe,label,symbol,gericht,garzeit_eingeweicht_min,garzeit_min,einsat
 15,eintrag,"Hülsenfrüchte, Reis, Teigwaren",,,Reis (körnig gekocht),,6,,1 : 2,
 15,eintrag,"Hülsenfrüchte, Reis, Teigwaren",,,Risotto (ital. Sorte),,6–7,,1 : 2,
 15,eintrag,Obst (Kompott),Obst (Kompott),,"Backobst/Dörrobst, vorgeweicht",,1–5,E gelocht,¼ l,
-15,eintrag,Obst (Kompott),,,Kernobst (in Schnitzen),,2–4,E gelocht,¼ l,
-15,eintrag,Obst (Kompott),,,Steinobst,,0–2,E gelocht,¼ l,
-15,eintrag,Obst (Kompott),,,Kastanien,,10–12,E gelocht,¼ l,
+15,eintrag,Obst (Kompott),,,Kernobst (in Schnitzen),,2–4,E gelocht,⅛ l,Nenner im Original eher x-förmig; als ⅛ l gelesen
+15,eintrag,Obst (Kompott),,,Steinobst,,0–2,E gelocht,⅛ l,Nenner im Original x-förmig; als ⅛ l bestätigt
+15,eintrag,Obst (Kompott),,,Kastanien,,10–12,E gelocht,⅛ l,Nenner im Original x-förmig; als ⅛ l bestätigt
 15,eintrag,Süßspeisen,Süßspeisen,*,"Pudding (im Wasserbad),\nje nach Größe der Form",,10–25,E mit\nFüßchen,Wasser bis zum\nSiebeinsatz,
 15,fussnote,,,○,Schnellbratpfanne besonders geeignet,,,,,
 15,fussnote,,,*,"Topf nicht abkühlen, Ventil absinken lassen. E = Einsatz zu empfehlen",,,,,

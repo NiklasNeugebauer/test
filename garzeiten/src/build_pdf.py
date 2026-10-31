@@ -34,8 +34,17 @@ GEOM = {}          # page -> {'rules': [...], 'texts': [...]}
 def sw(text, font, size):
     return pdfmetrics.stringWidth(text, font, size) * HS / 100.0
 
-def txt(c, x, y, s):
-    t = c.beginText(x, y); t.setFont(c._fontname, c._fontsize); t.setHorizScale(HS); t.textOut(s); c.drawText(t)
+def txt(c, x, y, s, max_w=None):
+    hs = HS
+    w = sw(s, c._fontname, c._fontsize)
+    if max_w is not None and w > max_w:
+        hs = HS * max_w / w
+    t = c.beginText(x, y); t.setFont(c._fontname, c._fontsize); t.setHorizScale(hs); t.textOut(s); c.drawText(t)
+
+def underline(c, x, y, w):
+    c.setFillColorRGB(0.85, 0.0, 0.0)
+    c.rect(x, y - 2.6, w, 0.8, stroke=0, fill=1)
+    c.setFillColorRGB(0, 0, 0)
 _cur = {'page': None}
 
 def rec_text(kind, x, y, text, w, size=None, row=None):
@@ -57,9 +66,25 @@ def rows_for(rows, page):
 def lines(s):
     return s.replace('\\n', '\n').split('\n') if s else []
 
-def draw_water(c, x, y, text, row=None):
+def draw_water(c, x, y, text, row=None, max_w=None, mark=False):
     """Draw text containing vulgar fractions as superscript/subscript fractions like the original."""
     rec_text('water', x, y, text, water_width(text), row=row)
+    if mark:
+        underline(c, x, y, min(water_width(text), max_w or 1e9))
+    if max_w is not None and water_width(text) > max_w:
+        # condense by drawing the plain-text parts narrower
+        f = max_w / water_width(text)
+        for ch in text:
+            if ch in FRACS:
+                n, d = FRACS[ch]; small = FS * 0.62
+                c.setFont('Serif', small); c.drawString(x, y + FS * 0.36, n); x += (sw(n, 'Serif', small) - 0.2) * f
+                c.setFont('Serif', FS * 0.9); c.drawString(x, y - 0.3, '/'); x += (sw('/', 'Serif', FS * 0.9) - 0.4) * f
+                c.setFont('Serif', small); c.drawString(x, y - FS * 0.08, d); x += sw(d, 'Serif', small) * f
+                c.setFont('Serif', FS)
+            else:
+                t = c.beginText(x, y); t.setFont('Serif', FS); t.setHorizScale(HS * f); t.textOut(ch); c.drawText(t)
+                x += sw(ch, 'Serif', FS) * f
+        return
     for ch in text:
         if ch in FRACS:
             n, d = FRACS[ch]
@@ -117,9 +142,11 @@ def draw_page(c, rows, page):
             continue
         if r['typ'] == 'spaltenkopf':
             h = ROW; yb = y - h + BASE_UP
-            txt(c, L + X_SOAK, yb, r['garzeit_eingeweicht_min'])
-            txt(c, L + X_TIME - 7, yb, r['garzeit_min'])
-            y -= h; rule(c, y); indent = 16.0
+            c.setFont('Serif', FS * 0.78)
+            txt(c, L + X_SOAK - 2, yb, r['garzeit_eingeweicht_min'])
+            txt(c, L + X_TIME - 6, yb, r['garzeit_min'])
+            c.setFont('Serif', FS)
+            y -= h; rule(c, y); indent = 12.5
             continue
         h, above = row_height(r)
         if pending_hint:
@@ -141,8 +168,9 @@ def draw_page(c, rows, page):
             rec_text('label', L, first_base + LINE * k, t, sw(t, 'Serif-Bold', FS), row=r['gruppe'] + ' · ' + r['gericht'])
         c.setFont('Serif', FS)
         draw_symbol(c, L + X_SYM + indent + adj('name'), first_base, r['symbol'])
+        name_limit = (L + X_SOAK - 3) if r['garzeit_eingeweicht_min'] else (L + X_TIME - 3)
         for k, t in enumerate(name_l):
-            txt(c, L + X_NAME + indent + adj('name'), first_base - LINE * k, t)
+            txt(c, L + X_NAME + indent + adj('name'), first_base - LINE * k, t, max_w=name_limit - (L + X_NAME + indent))
             rec_text('name', L + X_NAME + indent + adj('name'), first_base - LINE * k, t, sw(t, 'Serif', FS), row=r['gruppe'] + ' · ' + r['gericht'])
         # numbers/columns sit on the last dish line
         last_base = bottom + BASE_UP
@@ -154,13 +182,15 @@ def draw_page(c, rows, page):
             rec_text('soak', L + X_SOAK + adj('soak'), col_base, r['garzeit_eingeweicht_min'], sw(r['garzeit_eingeweicht_min'], 'Serif', FS), row=r['gruppe'] + ' · ' + r['gericht'])
         if r['garzeit_min']:
             draw_time(c, L + X_TIME + adj('time'), col_base, r['garzeit_min'], row=r['gruppe'] + ' · ' + r['gericht'])
+        unsure = r['anmerkung'].startswith('UNSICHER')
         if r['gericht'].startswith('Sauerkraut'):   # original sets the quantity in the insert column
-            draw_water(c, L + X_E, col_base, r['wasser'], row=r['gruppe'] + ' · ' + r['gericht']); e_l, w_l = [], []
+            draw_water(c, L + X_E, col_base, r['wasser'], row=r['gruppe'] + ' · ' + r['gericht'], mark=unsure); e_l, w_l = [], []
         for k, t in enumerate(e_l):
-            txt(c, L + X_E + adj('einsatz'), col_base - LINE * k, t)
+            txt(c, L + X_E + adj('einsatz'), col_base - LINE * k, t, max_w=X_WATER - X_E - 3)
             rec_text('einsatz', L + X_E + adj('einsatz'), col_base - LINE * k, t, sw(t, 'Serif', FS), row=r['gruppe'] + ' · ' + r['gericht'])
         for k, t in enumerate(w_l):
-            draw_water(c, L + X_WATER + adj('water'), col_base - LINE * k, t, row=r['gruppe'] + ' · ' + r['gericht'])
+            draw_water(c, L + X_WATER + adj('water'), col_base - LINE * k, t, row=r['gruppe'] + ' · ' + r['gericht'],
+                       max_w=R - (L + X_WATER) + 7, mark=unsure and k == 0)
         y = bottom
         is_last = (i == len(rows)) or rows[i]['typ'] == 'fussnote'
         if is_last and page != 15:
@@ -169,6 +199,10 @@ def draw_page(c, rows, page):
             rule(c, y, dashed=not is_last, width=0.7 if is_last else 0.5)
     if page == 15:
         y -= 14.0
+        c.setFont('Serif', FS * 0.85); c.setFillColorRGB(0.85, 0, 0)
+        txt(c, L + 8.5, y, 'rot unterstrichen: im Original abgerieben, Lesung unsicher (Rekonstruktion)')
+        c.setFillColorRGB(0, 0, 0); c.setFont('Serif', FS)
+        y -= 10.0
         rule(c, y, dashed=False, width=0.7)
     c.setFont('Serif', FS * 1.05)
     txt(c, (L + R) / 2 - sw(str(page), 'Serif', FS * 1.05) / 2, y - 22.0, str(page))
