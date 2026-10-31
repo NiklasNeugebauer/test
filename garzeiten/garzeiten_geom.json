@@ -1,0 +1,4103 @@
+{
+"12": {
+"rules": [
+{
+"y": 547.9251968503937,
+"dashed": false,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 520.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 493.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 477.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 461.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 434.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 418.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 402.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 386.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 370.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 354.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 338.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 322.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 306.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 290.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 274.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 247.92519685039372,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 231.92519685039372,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 215.92519685039372,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 199.92519685039372,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 183.92519685039372,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 167.92519685039372,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 151.92519685039372,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 135.92519685039372,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 119.92519685039372,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 103.92519685039372,
+"dashed": false,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 100.72519685039371,
+"dashed": false,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+}
+],
+"texts": [
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 536.5251968503937,
+"text": "Fisch, in Scheiben",
+"w": 71.262923828125,
+"size": 9.4,
+"row": "Fisch · Fisch, in Scheiben\\ngeschnitten, gedünstet"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 525.5251968503937,
+"text": "geschnitten, gedünstet",
+"w": 86.0412109375,
+"size": 9.4,
+"row": "Fisch · Fisch, in Scheiben\\ngeschnitten, gedünstet"
+},
+{
+"kind": "time",
+"x": 235.14645669291338,
+"y": 525.5251968503937,
+"text": "1–2",
+"w": 14.523000000000001,
+"size": 9.4,
+"row": "Fisch · Fisch, in Scheiben\\ngeschnitten, gedünstet"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 525.5251968503937,
+"text": "4–6 Eßlöffel",
+"w": 48.665287109375,
+"size": 9.4,
+"row": "Fisch · Fisch, in Scheiben\\ngeschnitten, gedünstet"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 509.52519685039374,
+"text": "Ganze Fische oder",
+"w": 72.0476953125,
+"size": 9.4,
+"row": "Fisch · Ganze Fische oder\\ngrößere Stücke"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 498.52519685039374,
+"text": "größere Stücke",
+"w": 58.33783203125,
+"size": 9.4,
+"row": "Fisch · Ganze Fische oder\\ngrößere Stücke"
+},
+{
+"kind": "time",
+"x": 235.14645669291338,
+"y": 498.52519685039374,
+"text": "2–3",
+"w": 14.523000000000001,
+"size": 9.4,
+"row": "Fisch · Ganze Fische oder\\ngrößere Stücke"
+},
+{
+"kind": "einsatz",
+"x": 277.34645669291336,
+"y": 498.52519685039374,
+"text": "E gelocht",
+"w": 36.83225683593751,
+"size": 9.4,
+"row": "Fisch · Ganze Fische oder\\ngrößere Stücke"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 498.52519685039374,
+"text": "mit Sud bedecken",
+"w": 69.37190820312499,
+"size": 9.4,
+"row": "Fisch · Ganze Fische oder\\ngrößere Stücke"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 482.52519685039374,
+"text": "Ganze Fische im eigenen Saft",
+"w": 115.607240234375,
+"size": 9.4,
+"row": "Fisch · Ganze Fische im eigenen Saft"
+},
+{
+"kind": "time",
+"x": 235.14645669291338,
+"y": 482.52519685039374,
+"text": "5–7",
+"w": 14.523000000000001,
+"size": 9.4,
+"row": "Fisch · Ganze Fische im eigenen Saft"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 482.52519685039374,
+"text": "0–4 Eßlöffel",
+"w": 48.665287109375,
+"size": 9.4,
+"row": "Fisch · Ganze Fische im eigenen Saft"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 466.52519685039374,
+"text": "Ragout oder Gulasch",
+"w": 81.739150390625,
+"size": 9.4,
+"row": "Fisch · Ragout oder Gulasch"
+},
+{
+"kind": "time",
+"x": 235.14645669291338,
+"y": 466.52519685039374,
+"text": "2–3",
+"w": 14.523000000000001,
+"size": 9.4,
+"row": "Fisch · Ragout oder Gulasch"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 466.52519685039374,
+"text": "⅛ l",
+"w": 12.93428248046875,
+"size": 9.4,
+"row": "Fisch · Ragout oder Gulasch"
+},
+{
+"kind": "label",
+"x": 28.34645669291339,
+"y": 439.52519685039374,
+"text": "Rindfleisch",
+"w": 46.80263671875,
+"size": 9.4,
+"row": "Rindfleisch · Braten (je nach Größe)"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 439.52519685039374,
+"text": "Braten (je nach Größe)",
+"w": 88.9770126953125,
+"size": 9.4,
+"row": "Rindfleisch · Braten (je nach Größe)"
+},
+{
+"kind": "time",
+"x": 235.14645669291338,
+"y": 439.52519685039374,
+"text": "35–45",
+"w": 24.205,
+"size": 9.4,
+"row": "Rindfleisch · Braten (je nach Größe)"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 439.52519685039374,
+"text": "⅛–¼ l",
+"w": 25.599095234375,
+"size": 9.4,
+"row": "Rindfleisch · Braten (je nach Größe)"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 423.52519685039374,
+"text": "Geschnetzeltes",
+"w": 58.063634765625004,
+"size": 9.4,
+"row": "Rindfleisch · Geschnetzeltes"
+},
+{
+"kind": "time",
+"x": 239.98745669291338,
+"y": 423.52519685039374,
+"text": "6– 8",
+"w": 16.9435,
+"size": 9.4,
+"row": "Rindfleisch · Geschnetzeltes"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 423.52519685039374,
+"text": "0–4 Eßlöffel",
+"w": 48.665287109375,
+"size": 9.4,
+"row": "Rindfleisch · Geschnetzeltes"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 407.52519685039374,
+"text": "Gulasch",
+"w": 31.7265146484375,
+"size": 9.4,
+"row": "Rindfleisch · Gulasch"
+},
+{
+"kind": "time",
+"x": 235.14645669291338,
+"y": 407.52519685039374,
+"text": "20–25",
+"w": 24.205,
+"size": 9.4,
+"row": "Rindfleisch · Gulasch"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 407.52519685039374,
+"text": "⅛ l",
+"w": 12.93428248046875,
+"size": 9.4,
+"row": "Rindfleisch · Gulasch"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 391.52519685039374,
+"text": "Kutteln (vorgekocht)",
+"w": 81.46495312500001,
+"size": 9.4,
+"row": "Rindfleisch · Kutteln (vorgekocht)"
+},
+{
+"kind": "time",
+"x": 235.14645669291338,
+"y": 391.52519685039374,
+"text": "12–15",
+"w": 24.205,
+"size": 9.4,
+"row": "Rindfleisch · Kutteln (vorgekocht)"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 391.52519685039374,
+"text": "¼ l",
+"w": 12.93428248046875,
+"size": 9.4,
+"row": "Rindfleisch · Kutteln (vorgekocht)"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 375.52519685039374,
+"text": "Ochsenschwanzragout",
+"w": 87.1049072265625,
+"size": 9.4,
+"row": "Rindfleisch · Ochsenschwanzragout"
+},
+{
+"kind": "time",
+"x": 235.14645669291338,
+"y": 375.52519685039374,
+"text": "30–35",
+"w": 24.205,
+"size": 9.4,
+"row": "Rindfleisch · Ochsenschwanzragout"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 375.52519685039374,
+"text": "⅛ l",
+"w": 12.93428248046875,
+"size": 9.4,
+"row": "Rindfleisch · Ochsenschwanzragout"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 359.52519685039374,
+"text": "Ragout",
+"w": 27.96812109375,
+"size": 9.4,
+"row": "Rindfleisch · Ragout"
+},
+{
+"kind": "time",
+"x": 235.14645669291338,
+"y": 359.52519685039374,
+"text": "20–25",
+"w": 24.205,
+"size": 9.4,
+"row": "Rindfleisch · Ragout"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 359.52519685039374,
+"text": "⅛–¼ l",
+"w": 25.599095234375,
+"size": 9.4,
+"row": "Rindfleisch · Ragout"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 343.52519685039374,
+"text": "Rouladen",
+"w": 37.106454101562505,
+"size": 9.4,
+"row": "Rindfleisch · Rouladen"
+},
+{
+"kind": "time",
+"x": 235.14645669291338,
+"y": 343.52519685039374,
+"text": "10–14",
+"w": 24.205,
+"size": 9.4,
+"row": "Rindfleisch · Rouladen"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 343.52519685039374,
+"text": "6 Eßlöffel",
+"w": 38.983287109375,
+"size": 9.4,
+"row": "Rindfleisch · Rouladen"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 327.52519685039374,
+"text": "Rumpsteak in Scheiben",
+"w": 91.4258779296875,
+"size": 9.4,
+"row": "Rindfleisch · Rumpsteak in Scheiben"
+},
+{
+"kind": "time",
+"x": 235.14645669291338,
+"y": 327.52519685039374,
+"text": "8–12",
+"w": 19.364,
+"size": 9.4,
+"row": "Rindfleisch · Rumpsteak in Scheiben"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 327.52519685039374,
+"text": "2–4 Eßlöffel",
+"w": 48.665287109375,
+"size": 9.4,
+"row": "Rindfleisch · Rumpsteak in Scheiben"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 311.52519685039374,
+"text": "Sauerbraten",
+"w": 46.23533203125,
+"size": 9.4,
+"row": "Rindfleisch · Sauerbraten"
+},
+{
+"kind": "time",
+"x": 235.14645669291338,
+"y": 311.52519685039374,
+"text": "35–40",
+"w": 24.205,
+"size": 9.4,
+"row": "Rindfleisch · Sauerbraten"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 311.52519685039374,
+"text": "¼ l",
+"w": 12.93428248046875,
+"size": 9.4,
+"row": "Rindfleisch · Sauerbraten"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 295.52519685039374,
+"text": "Suppenfleisch",
+"w": 54.8536357421875,
+"size": 9.4,
+"row": "Rindfleisch · Suppenfleisch"
+},
+{
+"kind": "time",
+"x": 235.14645669291338,
+"y": 295.52519685039374,
+"text": "35–45",
+"w": 24.205,
+"size": 9.4,
+"row": "Rindfleisch · Suppenfleisch"
+},
+{
+"kind": "einsatz",
+"x": 277.34645669291336,
+"y": 295.52519685039374,
+"text": "E gelocht",
+"w": 36.83225683593751,
+"size": 9.4,
+"row": "Rindfleisch · Suppenfleisch"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 295.52519685039374,
+"text": "nach Belieben",
+"w": 55.108922851562504,
+"size": 9.4,
+"row": "Rindfleisch · Suppenfleisch"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 279.52519685039374,
+"text": "Zunge",
+"w": 24.734484375,
+"size": 9.4,
+"row": "Rindfleisch · Zunge"
+},
+{
+"kind": "time",
+"x": 235.14645669291338,
+"y": 279.52519685039374,
+"text": "45–60",
+"w": 24.205,
+"size": 9.4,
+"row": "Rindfleisch · Zunge"
+},
+{
+"kind": "einsatz",
+"x": 277.34645669291336,
+"y": 279.52519685039374,
+"text": "E gelocht",
+"w": 36.83225683593751,
+"size": 9.4,
+"row": "Rindfleisch · Zunge"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 279.52519685039374,
+"text": "mit Wasser bedecken",
+"w": 82.79811914062498,
+"size": 9.4,
+"row": "Rindfleisch · Zunge"
+},
+{
+"kind": "label",
+"x": 28.34645669291339,
+"y": 252.5251968503937,
+"text": "fleisch",
+"w": 26.351302734375,
+"size": 9.4,
+"row": "Schweinefleisch · Braten (je nach Größe)"
+},
+{
+"kind": "label",
+"x": 28.34645669291339,
+"y": 263.52519685039374,
+"text": "Schweine-",
+"w": 41.95218164062501,
+"size": 9.4,
+"row": "Schweinefleisch · Braten (je nach Größe)"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 252.5251968503937,
+"text": "Braten (je nach Größe)",
+"w": 88.9770126953125,
+"size": 9.4,
+"row": "Schweinefleisch · Braten (je nach Größe)"
+},
+{
+"kind": "time",
+"x": 235.14645669291338,
+"y": 252.5251968503937,
+"text": "20–30",
+"w": 24.205,
+"size": 9.4,
+"row": "Schweinefleisch · Braten (je nach Größe)"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 252.5251968503937,
+"text": "⅛–¼ l",
+"w": 25.599095234375,
+"size": 9.4,
+"row": "Schweinefleisch · Braten (je nach Größe)"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 236.5251968503937,
+"text": "Geschnetzeltes",
+"w": 58.063634765625004,
+"size": 9.4,
+"row": "Schweinefleisch · Geschnetzeltes"
+},
+{
+"kind": "time",
+"x": 239.98745669291338,
+"y": 236.5251968503937,
+"text": "5– 7",
+"w": 16.9435,
+"size": 9.4,
+"row": "Schweinefleisch · Geschnetzeltes"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 236.5251968503937,
+"text": "0–4 Eßlöffel",
+"w": 48.665287109375,
+"size": 9.4,
+"row": "Schweinefleisch · Geschnetzeltes"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 220.5251968503937,
+"text": "Gulasch",
+"w": 31.7265146484375,
+"size": 9.4,
+"row": "Schweinefleisch · Gulasch"
+},
+{
+"kind": "time",
+"x": 235.14645669291338,
+"y": 220.5251968503937,
+"text": "18–22",
+"w": 24.205,
+"size": 9.4,
+"row": "Schweinefleisch · Gulasch"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 220.5251968503937,
+"text": "⅛ l",
+"w": 12.93428248046875,
+"size": 9.4,
+"row": "Schweinefleisch · Gulasch"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 204.5251968503937,
+"text": "Eisbein (Wädli), geräuchert",
+"w": 107.25840625000001,
+"size": 9.4,
+"row": "Schweinefleisch · Eisbein (Wädli), geräuchert"
+},
+{
+"kind": "time",
+"x": 235.14645669291338,
+"y": 204.5251968503937,
+"text": "25–30",
+"w": 24.205,
+"size": 9.4,
+"row": "Schweinefleisch · Eisbein (Wädli), geräuchert"
+},
+{
+"kind": "einsatz",
+"x": 277.34645669291336,
+"y": 204.5251968503937,
+"text": "E gelocht",
+"w": 36.83225683593751,
+"size": 9.4,
+"row": "Schweinefleisch · Eisbein (Wädli), geräuchert"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 204.5251968503937,
+"text": "mit Wasser bedecken",
+"w": 82.79811914062498,
+"size": 9.4,
+"row": "Schweinefleisch · Eisbein (Wädli), geräuchert"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 188.5251968503937,
+"text": "Ragout",
+"w": 27.96812109375,
+"size": 9.4,
+"row": "Schweinefleisch · Ragout"
+},
+{
+"kind": "time",
+"x": 235.14645669291338,
+"y": 188.5251968503937,
+"text": "18–22",
+"w": 24.205,
+"size": 9.4,
+"row": "Schweinefleisch · Ragout"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 188.5251968503937,
+"text": "⅛–¼ l",
+"w": 25.599095234375,
+"size": 9.4,
+"row": "Schweinefleisch · Ragout"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 172.5251968503937,
+"text": "Koteletts",
+"w": 34.95542382812501,
+"size": 9.4,
+"row": "Schweinefleisch · Koteletts"
+},
+{
+"kind": "time",
+"x": 239.98745669291338,
+"y": 172.5251968503937,
+"text": "6– 8",
+"w": 16.9435,
+"size": 9.4,
+"row": "Schweinefleisch · Koteletts"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 172.5251968503937,
+"text": "0–4 Eßlöffel",
+"w": 48.665287109375,
+"size": 9.4,
+"row": "Schweinefleisch · Koteletts"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 156.5251968503937,
+"text": "Rippchen, geräuchert, am Stück",
+"w": 123.94189160156252,
+"size": 9.4,
+"row": "Schweinefleisch · Rippchen, geräuchert, am Stück"
+},
+{
+"kind": "time",
+"x": 235.14645669291338,
+"y": 156.5251968503937,
+"text": "15–20",
+"w": 24.205,
+"size": 9.4,
+"row": "Schweinefleisch · Rippchen, geräuchert, am Stück"
+},
+{
+"kind": "einsatz",
+"x": 277.34645669291336,
+"y": 156.5251968503937,
+"text": "E gelocht",
+"w": 36.83225683593751,
+"size": 9.4,
+"row": "Schweinefleisch · Rippchen, geräuchert, am Stück"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 156.5251968503937,
+"text": "mit Wasser bedecken",
+"w": 82.79811914062498,
+"size": 9.4,
+"row": "Schweinefleisch · Rippchen, geräuchert, am Stück"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 140.5251968503937,
+"text": "Rouladen",
+"w": 37.106454101562505,
+"size": 9.4,
+"row": "Schweinefleisch · Rouladen"
+},
+{
+"kind": "time",
+"x": 235.14645669291338,
+"y": 140.5251968503937,
+"text": "8–10",
+"w": 19.364,
+"size": 9.4,
+"row": "Schweinefleisch · Rouladen"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 140.5251968503937,
+"text": "4–6 Eßlöffel",
+"w": 48.665287109375,
+"size": 9.4,
+"row": "Schweinefleisch · Rouladen"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 124.52519685039371,
+"text": "Speck, geräuchert",
+"w": 69.352998046875,
+"size": 9.4,
+"row": "Schweinefleisch · Speck, geräuchert"
+},
+{
+"kind": "time",
+"x": 235.14645669291338,
+"y": 124.52519685039371,
+"text": "17–19",
+"w": 24.205,
+"size": 9.4,
+"row": "Schweinefleisch · Speck, geräuchert"
+},
+{
+"kind": "einsatz",
+"x": 277.34645669291336,
+"y": 124.52519685039371,
+"text": "E gelocht",
+"w": 36.83225683593751,
+"size": 9.4,
+"row": "Schweinefleisch · Speck, geräuchert"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 124.52519685039371,
+"text": "mit Wasser bedecken",
+"w": 82.79811914062498,
+"size": 9.4,
+"row": "Schweinefleisch · Speck, geräuchert"
+},
+{
+"kind": "label",
+"x": 28.34645669291339,
+"y": 108.52519685039371,
+"text": "Kalbfleisch",
+"w": 46.7979091796875,
+"size": 9.4,
+"row": "Kalbfleisch · Braten (je nach Größe)"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 108.52519685039371,
+"text": "Braten (je nach Größe)",
+"w": 88.9770126953125,
+"size": 9.4,
+"row": "Kalbfleisch · Braten (je nach Größe)"
+},
+{
+"kind": "time",
+"x": 235.14645669291338,
+"y": 108.52519685039371,
+"text": "25–30",
+"w": 24.205,
+"size": 9.4,
+"row": "Kalbfleisch · Braten (je nach Größe)"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 108.52519685039371,
+"text": "⅛–¼ l",
+"w": 25.599095234375,
+"size": 9.4,
+"row": "Kalbfleisch · Braten (je nach Größe)"
+}
+]
+},
+"13": {
+"rules": [
+{
+"y": 547.9251968503937,
+"dashed": false,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 531.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 515.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 499.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 483.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 467.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 451.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 435.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 419.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 403.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 376.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 360.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 344.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 328.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 312.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 296.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 269.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 253.92519685039372,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 237.92519685039372,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 221.92519685039372,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 205.92519685039372,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 189.92519685039372,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 173.92519685039372,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 157.92519685039372,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 141.92519685039372,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 125.92519685039372,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 109.92519685039372,
+"dashed": false,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 106.72519685039371,
+"dashed": false,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+}
+],
+"texts": [
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 536.5251968503937,
+"text": "Geschnetzeltes",
+"w": 58.063634765625004,
+"size": 9.4,
+"row": "Kalbfleisch · Geschnetzeltes"
+},
+{
+"kind": "time",
+"x": 234.1874566929134,
+"y": 536.5251968503937,
+"text": "3– 5",
+"w": 16.9435,
+"size": 9.4,
+"row": "Kalbfleisch · Geschnetzeltes"
+},
+{
+"kind": "water",
+"x": 314.74645669291334,
+"y": 536.5251968503937,
+"text": "0–4 Eßlöffel",
+"w": 48.665287109375,
+"size": 9.4,
+"row": "Kalbfleisch · Geschnetzeltes"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 520.5251968503937,
+"text": "Gulasch",
+"w": 31.7265146484375,
+"size": 9.4,
+"row": "Kalbfleisch · Gulasch"
+},
+{
+"kind": "time",
+"x": 229.3464566929134,
+"y": 520.5251968503937,
+"text": "20–22",
+"w": 24.205,
+"size": 9.4,
+"row": "Kalbfleisch · Gulasch"
+},
+{
+"kind": "water",
+"x": 314.74645669291334,
+"y": 520.5251968503937,
+"text": "⅛ l",
+"w": 12.93428248046875,
+"size": 9.4,
+"row": "Kalbfleisch · Gulasch"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 504.52519685039374,
+"text": "Haxe in Scheiben",
+"w": 68.2893017578125,
+"size": 9.4,
+"row": "Kalbfleisch · Haxe in Scheiben"
+},
+{
+"kind": "time",
+"x": 229.3464566929134,
+"y": 504.52519685039374,
+"text": "15–20",
+"w": 24.205,
+"size": 9.4,
+"row": "Kalbfleisch · Haxe in Scheiben"
+},
+{
+"kind": "water",
+"x": 314.74645669291334,
+"y": 504.52519685039374,
+"text": "4 Eßlöffel – ⅛ l",
+"w": 61.59956958984374,
+"size": 9.4,
+"row": "Kalbfleisch · Haxe in Scheiben"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 488.52519685039374,
+"text": "Haxe im Stück",
+"w": 57.54360546875,
+"size": 9.4,
+"row": "Kalbfleisch · Haxe im Stück"
+},
+{
+"kind": "time",
+"x": 229.3464566929134,
+"y": 488.52519685039374,
+"text": "25–30",
+"w": 24.205,
+"size": 9.4,
+"row": "Kalbfleisch · Haxe im Stück"
+},
+{
+"kind": "water",
+"x": 314.74645669291334,
+"y": 488.52519685039374,
+"text": "⅛ l",
+"w": 12.93428248046875,
+"size": 9.4,
+"row": "Kalbfleisch · Haxe im Stück"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 472.52519685039374,
+"text": "Herzragout",
+"w": 43.54536230468751,
+"size": 9.4,
+"row": "Kalbfleisch · Herzragout"
+},
+{
+"kind": "time",
+"x": 229.3464566929134,
+"y": 472.52519685039374,
+"text": "15–18",
+"w": 24.205,
+"size": 9.4,
+"row": "Kalbfleisch · Herzragout"
+},
+{
+"kind": "water",
+"x": 314.74645669291334,
+"y": 472.52519685039374,
+"text": "⅛ l",
+"w": 12.93428248046875,
+"size": 9.4,
+"row": "Kalbfleisch · Herzragout"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 456.52519685039374,
+"text": "Kopf",
+"w": 19.8982119140625,
+"size": 9.4,
+"row": "Kalbfleisch · Kopf"
+},
+{
+"kind": "time",
+"x": 229.3464566929134,
+"y": 456.52519685039374,
+"text": "15–20",
+"w": 24.205,
+"size": 9.4,
+"row": "Kalbfleisch · Kopf"
+},
+{
+"kind": "einsatz",
+"x": 272.9464566929134,
+"y": 456.52519685039374,
+"text": "E gelocht",
+"w": 36.83225683593751,
+"size": 9.4,
+"row": "Kalbfleisch · Kopf"
+},
+{
+"kind": "water",
+"x": 314.74645669291334,
+"y": 456.52519685039374,
+"text": "mit Wasser bedecken",
+"w": 82.79811914062498,
+"size": 9.4,
+"row": "Kalbfleisch · Kopf"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 440.52519685039374,
+"text": "Koteletts",
+"w": 34.95542382812501,
+"size": 9.4,
+"row": "Kalbfleisch · Koteletts"
+},
+{
+"kind": "time",
+"x": 234.1874566929134,
+"y": 440.52519685039374,
+"text": "6– 8",
+"w": 16.9435,
+"size": 9.4,
+"row": "Kalbfleisch · Koteletts"
+},
+{
+"kind": "water",
+"x": 314.74645669291334,
+"y": 440.52519685039374,
+"text": "0–4 Eßlöffel",
+"w": 48.665287109375,
+"size": 9.4,
+"row": "Kalbfleisch · Koteletts"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 424.52519685039374,
+"text": "Ragout",
+"w": 27.96812109375,
+"size": 9.4,
+"row": "Kalbfleisch · Ragout"
+},
+{
+"kind": "time",
+"x": 229.3464566929134,
+"y": 424.52519685039374,
+"text": "15–23",
+"w": 24.205,
+"size": 9.4,
+"row": "Kalbfleisch · Ragout"
+},
+{
+"kind": "water",
+"x": 314.74645669291334,
+"y": 424.52519685039374,
+"text": "⅛–¼ l",
+"w": 25.599095234375,
+"size": 9.4,
+"row": "Kalbfleisch · Ragout"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 408.52519685039374,
+"text": "Zunge",
+"w": 24.734484375,
+"size": 9.4,
+"row": "Kalbfleisch · Zunge"
+},
+{
+"kind": "time",
+"x": 229.3464566929134,
+"y": 408.52519685039374,
+"text": "15–20",
+"w": 24.205,
+"size": 9.4,
+"row": "Kalbfleisch · Zunge"
+},
+{
+"kind": "einsatz",
+"x": 272.9464566929134,
+"y": 408.52519685039374,
+"text": "E gelocht",
+"w": 36.83225683593751,
+"size": 9.4,
+"row": "Kalbfleisch · Zunge"
+},
+{
+"kind": "water",
+"x": 314.74645669291334,
+"y": 408.52519685039374,
+"text": "mit Wasser bedecken",
+"w": 82.79811914062498,
+"size": 9.4,
+"row": "Kalbfleisch · Zunge"
+},
+{
+"kind": "label",
+"x": 28.34645669291339,
+"y": 381.52519685039374,
+"text": "Hammel",
+"w": 35.4896357421875,
+"size": 9.4,
+"row": "Lamm und Hammel · Lammbraten"
+},
+{
+"kind": "label",
+"x": 28.34645669291339,
+"y": 392.52519685039374,
+"text": "Lamm und",
+"w": 46.00368261718751,
+"size": 9.4,
+"row": "Lamm und Hammel · Lammbraten"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 381.52519685039374,
+"text": "Lammbraten",
+"w": 49.4642412109375,
+"size": 9.4,
+"row": "Lamm und Hammel · Lammbraten"
+},
+{
+"kind": "time",
+"x": 229.3464566929134,
+"y": 381.52519685039374,
+"text": "25–30",
+"w": 24.205,
+"size": 9.4,
+"row": "Lamm und Hammel · Lammbraten"
+},
+{
+"kind": "water",
+"x": 314.74645669291334,
+"y": 381.52519685039374,
+"text": "4 Eßlöffel–⅛ l",
+"w": 56.758569589843745,
+"size": 9.4,
+"row": "Lamm und Hammel · Lammbraten"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 365.52519685039374,
+"text": "Hammelbraten (Schaf)",
+"w": 88.44280078125001,
+"size": 9.4,
+"row": "Lamm und Hammel · Hammelbraten (Schaf)"
+},
+{
+"kind": "time",
+"x": 229.3464566929134,
+"y": 365.52519685039374,
+"text": "25–35",
+"w": 24.205,
+"size": 9.4,
+"row": "Lamm und Hammel · Hammelbraten (Schaf)"
+},
+{
+"kind": "water",
+"x": 314.74645669291334,
+"y": 365.52519685039374,
+"text": "⅛ l",
+"w": 12.93428248046875,
+"size": 9.4,
+"row": "Lamm und Hammel · Hammelbraten (Schaf)"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 349.52519685039374,
+"text": "Lammragout",
+"w": 50.007908203125,
+"size": 9.4,
+"row": "Lamm und Hammel · Lammragout"
+},
+{
+"kind": "time",
+"x": 229.3464566929134,
+"y": 349.52519685039374,
+"text": "20–25",
+"w": 24.205,
+"size": 9.4,
+"row": "Lamm und Hammel · Lammragout"
+},
+{
+"kind": "water",
+"x": 314.74645669291334,
+"y": 349.52519685039374,
+"text": "⅛–¼ l",
+"w": 25.599095234375,
+"size": 9.4,
+"row": "Lamm und Hammel · Lammragout"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 333.52519685039374,
+"text": "Lammkoteletts",
+"w": 58.0778173828125,
+"size": 9.4,
+"row": "Lamm und Hammel · Lammkoteletts"
+},
+{
+"kind": "time",
+"x": 234.1874566929134,
+"y": 333.52519685039374,
+"text": "3– 4",
+"w": 16.9435,
+"size": 9.4,
+"row": "Lamm und Hammel · Lammkoteletts"
+},
+{
+"kind": "water",
+"x": 314.74645669291334,
+"y": 333.52519685039374,
+"text": "0–4 Eßlöffel",
+"w": 48.665287109375,
+"size": 9.4,
+"row": "Lamm und Hammel · Lammkoteletts"
+},
+{
+"kind": "label",
+"x": 28.34645669291339,
+"y": 317.52519685039374,
+"text": "Hackfleisch",
+"w": 48.4052724609375,
+"size": 9.4,
+"row": "Hackfleisch · Hackbraten"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 317.52519685039374,
+"text": "Hackbraten",
+"w": 44.618513671875,
+"size": 9.4,
+"row": "Hackfleisch · Hackbraten"
+},
+{
+"kind": "time",
+"x": 229.3464566929134,
+"y": 317.52519685039374,
+"text": "10–15",
+"w": 24.205,
+"size": 9.4,
+"row": "Hackfleisch · Hackbraten"
+},
+{
+"kind": "water",
+"x": 314.74645669291334,
+"y": 317.52519685039374,
+"text": "⅛–¼ l",
+"w": 25.599095234375,
+"size": 9.4,
+"row": "Hackfleisch · Hackbraten"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 301.52519685039374,
+"text": "Hackbeefsteaks",
+"w": 60.748876953125,
+"size": 9.4,
+"row": "Hackfleisch · Hackbeefsteaks"
+},
+{
+"kind": "time",
+"x": 234.1874566929134,
+"y": 301.52519685039374,
+"text": "5– 7",
+"w": 16.9435,
+"size": 9.4,
+"row": "Hackfleisch · Hackbeefsteaks"
+},
+{
+"kind": "water",
+"x": 314.74645669291334,
+"y": 301.52519685039374,
+"text": "4 Eßlöffel–⅛ l",
+"w": 56.758569589843745,
+"size": 9.4,
+"row": "Hackfleisch · Hackbeefsteaks"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 285.52519685039374,
+"text": "Terrinen",
+"w": 33.329150390625,
+"size": 9.4,
+"row": "Hackfleisch · Terrinen\\n(Pasteten im Wasserbad)"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 274.52519685039374,
+"text": "(Pasteten im Wasserbad)",
+"w": 96.24796777343751,
+"size": 9.4,
+"row": "Hackfleisch · Terrinen\\n(Pasteten im Wasserbad)"
+},
+{
+"kind": "time",
+"x": 229.3464566929134,
+"y": 285.52519685039374,
+"text": "35–40",
+"w": 24.205,
+"size": 9.4,
+"row": "Hackfleisch · Terrinen\\n(Pasteten im Wasserbad)"
+},
+{
+"kind": "einsatz",
+"x": 272.9464566929134,
+"y": 285.52519685039374,
+"text": "E mit",
+"w": 21.245560546874998,
+"size": 9.4,
+"row": "Hackfleisch · Terrinen\\n(Pasteten im Wasserbad)"
+},
+{
+"kind": "einsatz",
+"x": 272.9464566929134,
+"y": 274.52519685039374,
+"text": "Füßchen",
+"w": 33.3433330078125,
+"size": 9.4,
+"row": "Hackfleisch · Terrinen\\n(Pasteten im Wasserbad)"
+},
+{
+"kind": "water",
+"x": 314.74645669291334,
+"y": 285.52519685039374,
+"text": "Wasser bis zum",
+"w": 61.3019990234375,
+"size": 9.4,
+"row": "Hackfleisch · Terrinen\\n(Pasteten im Wasserbad)"
+},
+{
+"kind": "water",
+"x": 314.74645669291334,
+"y": 274.52519685039374,
+"text": "Siebeinsatz",
+"w": 44.093756835937505,
+"size": 9.4,
+"row": "Hackfleisch · Terrinen\\n(Pasteten im Wasserbad)"
+},
+{
+"kind": "label",
+"x": 28.34645669291339,
+"y": 258.52519685039374,
+"text": "Geflügel",
+"w": 34.95542382812501,
+"size": 9.4,
+"row": "Geflügel · Geflügelteile"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 258.52519685039374,
+"text": "Geflügelteile",
+"w": 50.537392578125,
+"size": 9.4,
+"row": "Geflügel · Geflügelteile"
+},
+{
+"kind": "time",
+"x": 234.1874566929134,
+"y": 258.52519685039374,
+"text": "6– 8",
+"w": 16.9435,
+"size": 9.4,
+"row": "Geflügel · Geflügelteile"
+},
+{
+"kind": "water",
+"x": 314.74645669291334,
+"y": 258.52519685039374,
+"text": "4 Eßlöffel–⅛ l",
+"w": 56.758569589843745,
+"size": 9.4,
+"row": "Geflügel · Geflügelteile"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 242.5251968503937,
+"text": "Hähnchen, ganz",
+"w": 62.3656953125,
+"size": 9.4,
+"row": "Geflügel · Hähnchen, ganz"
+},
+{
+"kind": "time",
+"x": 229.3464566929134,
+"y": 242.5251968503937,
+"text": "15–20",
+"w": 24.205,
+"size": 9.4,
+"row": "Geflügel · Hähnchen, ganz"
+},
+{
+"kind": "einsatz",
+"x": 272.9464566929134,
+"y": 242.5251968503937,
+"text": "E",
+"w": 5.9141513671874995,
+"size": 9.4,
+"row": "Geflügel · Hähnchen, ganz"
+},
+{
+"kind": "water",
+"x": 314.74645669291334,
+"y": 242.5251968503937,
+"text": "⅛ l",
+"w": 12.93428248046875,
+"size": 9.4,
+"row": "Geflügel · Hähnchen, ganz"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 226.5251968503937,
+"text": "Huhn, ganz (Poularde)",
+"w": 87.9180439453125,
+"size": 9.4,
+"row": "Geflügel · Huhn, ganz (Poularde)"
+},
+{
+"kind": "time",
+"x": 229.3464566929134,
+"y": 226.5251968503937,
+"text": "16–20",
+"w": 24.205,
+"size": 9.4,
+"row": "Geflügel · Huhn, ganz (Poularde)"
+},
+{
+"kind": "einsatz",
+"x": 272.9464566929134,
+"y": 226.5251968503937,
+"text": "E gelocht",
+"w": 36.83225683593751,
+"size": 9.4,
+"row": "Geflügel · Huhn, ganz (Poularde)"
+},
+{
+"kind": "water",
+"x": 314.74645669291334,
+"y": 226.5251968503937,
+"text": "⅛–¼ l",
+"w": 25.599095234375,
+"size": 9.4,
+"row": "Geflügel · Huhn, ganz (Poularde)"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 210.5251968503937,
+"text": "Huhn, ganz (Suppenhuhn)",
+"w": 101.9115595703125,
+"size": 9.4,
+"row": "Geflügel · Huhn, ganz (Suppenhuhn)"
+},
+{
+"kind": "time",
+"x": 229.3464566929134,
+"y": 210.5251968503937,
+"text": "30–45",
+"w": 24.205,
+"size": 9.4,
+"row": "Geflügel · Huhn, ganz (Suppenhuhn)"
+},
+{
+"kind": "einsatz",
+"x": 272.9464566929134,
+"y": 210.5251968503937,
+"text": "E gelocht",
+"w": 36.83225683593751,
+"size": 9.4,
+"row": "Geflügel · Huhn, ganz (Suppenhuhn)"
+},
+{
+"kind": "water",
+"x": 314.74645669291334,
+"y": 210.5251968503937,
+"text": "mit Wasser bedecken",
+"w": 82.79811914062498,
+"size": 9.4,
+"row": "Geflügel · Huhn, ganz (Suppenhuhn)"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 194.5251968503937,
+"text": "Truthahn, Rollbraten",
+"w": 81.2002109375,
+"size": 9.4,
+"row": "Geflügel · Truthahn, Rollbraten"
+},
+{
+"kind": "time",
+"x": 229.3464566929134,
+"y": 194.5251968503937,
+"text": "18–25",
+"w": 24.205,
+"size": 9.4,
+"row": "Geflügel · Truthahn, Rollbraten"
+},
+{
+"kind": "water",
+"x": 314.74645669291334,
+"y": 194.5251968503937,
+"text": "⅛–¼ l",
+"w": 25.599095234375,
+"size": 9.4,
+"row": "Geflügel · Truthahn, Rollbraten"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 178.5251968503937,
+"text": "Truthahn, Ragout",
+"w": 68.29875683593751,
+"size": 9.4,
+"row": "Geflügel · Truthahn, Ragout"
+},
+{
+"kind": "time",
+"x": 229.3464566929134,
+"y": 178.5251968503937,
+"text": "6–10",
+"w": 19.364,
+"size": 9.4,
+"row": "Geflügel · Truthahn, Ragout"
+},
+{
+"kind": "water",
+"x": 314.74645669291334,
+"y": 178.5251968503937,
+"text": "⅛–¼ l",
+"w": 25.599095234375,
+"size": 9.4,
+"row": "Geflügel · Truthahn, Ragout"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 162.5251968503937,
+"text": "Truthahn, Schnitzel",
+"w": 76.35921093750001,
+"size": 9.4,
+"row": "Geflügel · Truthahn, Schnitzel"
+},
+{
+"kind": "time",
+"x": 234.1874566929134,
+"y": 162.5251968503937,
+"text": "2– 3",
+"w": 16.9435,
+"size": 9.4,
+"row": "Geflügel · Truthahn, Schnitzel"
+},
+{
+"kind": "water",
+"x": 314.74645669291334,
+"y": 162.5251968503937,
+"text": "4 Eßlöffel – ⅛ l",
+"w": 61.59956958984374,
+"size": 9.4,
+"row": "Geflügel · Truthahn, Schnitzel"
+},
+{
+"kind": "label",
+"x": 28.34645669291339,
+"y": 146.5251968503937,
+"text": "Wild",
+"w": 20.4466064453125,
+"size": 9.4,
+"row": "Wild · Hasenbraten"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 146.5251968503937,
+"text": "Hasenbraten",
+"w": 48.3863623046875,
+"size": 9.4,
+"row": "Wild · Hasenbraten"
+},
+{
+"kind": "time",
+"x": 229.3464566929134,
+"y": 146.5251968503937,
+"text": "15–20",
+"w": 24.205,
+"size": 9.4,
+"row": "Wild · Hasenbraten"
+},
+{
+"kind": "water",
+"x": 314.74645669291334,
+"y": 146.5251968503937,
+"text": "⅛ l",
+"w": 12.93428248046875,
+"size": 9.4,
+"row": "Wild · Hasenbraten"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 130.5251968503937,
+"text": "Hasenrücken (halbieren)",
+"w": 95.4253759765625,
+"size": 9.4,
+"row": "Wild · Hasenrücken (halbieren)"
+},
+{
+"kind": "time",
+"x": 229.3464566929134,
+"y": 130.5251968503937,
+"text": "10–12",
+"w": 24.205,
+"size": 9.4,
+"row": "Wild · Hasenrücken (halbieren)"
+},
+{
+"kind": "water",
+"x": 314.74645669291334,
+"y": 130.5251968503937,
+"text": "3–6 Eßlöffel",
+"w": 48.665287109375,
+"size": 9.4,
+"row": "Wild · Hasenrücken (halbieren)"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 114.52519685039371,
+"text": "Hirschmedaillons",
+"w": 68.29875683593751,
+"size": 9.4,
+"row": "Wild · Hirschmedaillons"
+},
+{
+"kind": "time",
+"x": 229.3464566929134,
+"y": 114.52519685039371,
+"text": "2",
+"w": 4.841,
+"size": 9.4,
+"row": "Wild · Hirschmedaillons"
+},
+{
+"kind": "water",
+"x": 314.74645669291334,
+"y": 114.52519685039371,
+"text": "0–3 Eßlöffel",
+"w": 48.665287109375,
+"size": 9.4,
+"row": "Wild · Hirschmedaillons"
+}
+]
+},
+"14": {
+"rules": [
+{
+"y": 547.9251968503937,
+"dashed": false,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 531.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 515.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 488.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 472.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 456.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 440.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 424.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 408.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 392.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 376.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 360.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 344.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 328.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 312.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 296.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 280.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 264.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 237.92519685039372,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 221.92519685039372,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 205.92519685039372,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 189.92519685039372,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 173.92519685039372,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 157.92519685039372,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 141.92519685039372,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 125.92519685039372,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 109.92519685039372,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 93.92519685039372,
+"dashed": false,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 90.72519685039371,
+"dashed": false,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+}
+],
+"texts": [
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 536.5251968503937,
+"text": "Hirschbraten",
+"w": 50.003180664062505,
+"size": 9.4,
+"row": "Wild · Hirschbraten"
+},
+{
+"kind": "time",
+"x": 235.04645669291338,
+"y": 536.5251968503937,
+"text": "25–30",
+"w": 24.205,
+"size": 9.4,
+"row": "Wild · Hirschbraten"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 536.5251968503937,
+"text": "⅛ l",
+"w": 12.93428248046875,
+"size": 9.4,
+"row": "Wild · Hirschbraten"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 520.5251968503937,
+"text": "Hirschgulasch",
+"w": 55.38784765625,
+"size": 9.4,
+"row": "Wild · Hirschgulasch"
+},
+{
+"kind": "time",
+"x": 235.04645669291338,
+"y": 520.5251968503937,
+"text": "15–20",
+"w": 24.205,
+"size": 9.4,
+"row": "Wild · Hirschgulasch"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 520.5251968503937,
+"text": "⅛–¼ l",
+"w": 25.599095234375,
+"size": 9.4,
+"row": "Wild · Hirschgulasch"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 504.52519685039374,
+"text": "Reh-, Hasen-, Hirsch-,",
+"w": 87.37910449218751,
+"size": 9.4,
+"row": "Wild · Reh-, Hasen-, Hirsch-,\\nWildschweinpfeffer"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 493.52519685039374,
+"text": "Wildschweinpfeffer",
+"w": 77.4181796875,
+"size": 9.4,
+"row": "Wild · Reh-, Hasen-, Hirsch-,\\nWildschweinpfeffer"
+},
+{
+"kind": "time",
+"x": 235.04645669291338,
+"y": 493.52519685039374,
+"text": "15–18",
+"w": 24.205,
+"size": 9.4,
+"row": "Wild · Reh-, Hasen-, Hirsch-,\\nWildschweinpfeffer"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 493.52519685039374,
+"text": "⅛–¼ l",
+"w": 25.599095234375,
+"size": 9.4,
+"row": "Wild · Reh-, Hasen-, Hirsch-,\\nWildschweinpfeffer"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 477.52519685039374,
+"text": "Rebhühner",
+"w": 42.481666015625,
+"size": 9.4,
+"row": "Wild · Rebhühner"
+},
+{
+"kind": "time",
+"x": 235.04645669291338,
+"y": 477.52519685039374,
+"text": "12–20",
+"w": 24.205,
+"size": 9.4,
+"row": "Wild · Rebhühner"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 477.52519685039374,
+"text": "3–6 Eßlöffel",
+"w": 48.665287109375,
+"size": 9.4,
+"row": "Wild · Rebhühner"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 461.52519685039374,
+"text": "Fasan",
+"w": 22.588181640625002,
+"size": 9.4,
+"row": "Wild · Fasan"
+},
+{
+"kind": "time",
+"x": 235.04645669291338,
+"y": 461.52519685039374,
+"text": "12–15",
+"w": 24.205,
+"size": 9.4,
+"row": "Wild · Fasan"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 461.52519685039374,
+"text": "3–6 Eßlöffel",
+"w": 48.665287109375,
+"size": 9.4,
+"row": "Wild · Fasan"
+},
+{
+"kind": "label",
+"x": 28.34645669291339,
+"y": 445.52519685039374,
+"text": "Gemüse,",
+"w": 35.7638330078125,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Artischocken"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 445.52519685039374,
+"text": "Artischocken",
+"w": 51.6199990234375,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Artischocken"
+},
+{
+"kind": "time",
+"x": 235.04645669291338,
+"y": 445.52519685039374,
+"text": "8–12",
+"w": 19.364,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Artischocken"
+},
+{
+"kind": "einsatz",
+"x": 277.34645669291336,
+"y": 445.52519685039374,
+"text": "E gelocht",
+"w": 36.83225683593751,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Artischocken"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 445.52519685039374,
+"text": "¼ l",
+"w": 12.93428248046875,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Artischocken"
+},
+{
+"kind": "label",
+"x": 28.34645669291339,
+"y": 429.52519685039374,
+"text": "Kartoffeln",
+"w": 43.5548173828125,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Auberginen (Eierfrüchte)"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 429.52519685039374,
+"text": "Auberginen (Eierfrüchte)",
+"w": 98.115345703125,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Auberginen (Eierfrüchte)"
+},
+{
+"kind": "time",
+"x": 239.8874566929134,
+"y": 429.52519685039374,
+"text": "1– 2",
+"w": 16.9435,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Auberginen (Eierfrüchte)"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 429.52519685039374,
+"text": "0–3 Eßlöffel",
+"w": 48.665287109375,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Auberginen (Eierfrüchte)"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 413.52519685039374,
+"text": "Blumenkohl",
+"w": 47.87106054687501,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Blumenkohl"
+},
+{
+"kind": "time",
+"x": 239.8874566929134,
+"y": 413.52519685039374,
+"text": "3– 5",
+"w": 16.9435,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Blumenkohl"
+},
+{
+"kind": "einsatz",
+"x": 277.34645669291336,
+"y": 413.52519685039374,
+"text": "E gelocht",
+"w": 36.83225683593751,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Blumenkohl"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 413.52519685039374,
+"text": "¼ l",
+"w": 12.93428248046875,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Blumenkohl"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 397.52519685039374,
+"text": "Bohnen, grüne",
+"w": 57.004666015625006,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Bohnen, grüne"
+},
+{
+"kind": "time",
+"x": 235.04645669291338,
+"y": 397.52519685039374,
+"text": "7–10",
+"w": 19.364,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Bohnen, grüne"
+},
+{
+"kind": "einsatz",
+"x": 277.34645669291336,
+"y": 397.52519685039374,
+"text": "E gelocht",
+"w": 36.83225683593751,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Bohnen, grüne"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 397.52519685039374,
+"text": "¼ l",
+"w": 12.93428248046875,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Bohnen, grüne"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 381.52519685039374,
+"text": "Chicorée (Brüsseler Endivien)",
+"w": 117.7582705078125,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Chicorée (Brüsseler Endivien)"
+},
+{
+"kind": "time",
+"x": 235.04645669291338,
+"y": 381.52519685039374,
+"text": "3",
+"w": 4.841,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Chicorée (Brüsseler Endivien)"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 381.52519685039374,
+"text": "⅛ l",
+"w": 12.93428248046875,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Chicorée (Brüsseler Endivien)"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 365.52519685039374,
+"text": "Erbsen, grüne",
+"w": 53.77102929687501,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Erbsen, grüne"
+},
+{
+"kind": "time",
+"x": 239.8874566929134,
+"y": 365.52519685039374,
+"text": "2– 4",
+"w": 16.9435,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Erbsen, grüne"
+},
+{
+"kind": "einsatz",
+"x": 277.34645669291336,
+"y": 365.52519685039374,
+"text": "E",
+"w": 5.9141513671874995,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Erbsen, grüne"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 365.52519685039374,
+"text": "⅛ l",
+"w": 12.93428248046875,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Erbsen, grüne"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 349.52519685039374,
+"text": "Fenchel",
+"w": 30.6486357421875,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Fenchel"
+},
+{
+"kind": "time",
+"x": 239.8874566929134,
+"y": 349.52519685039374,
+"text": "5– 8",
+"w": 16.9435,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Fenchel"
+},
+{
+"kind": "einsatz",
+"x": 277.34645669291336,
+"y": 349.52519685039374,
+"text": "E gelocht",
+"w": 36.83225683593751,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Fenchel"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 349.52519685039374,
+"text": "⅛ l",
+"w": 12.93428248046875,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Fenchel"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 333.52519685039374,
+"text": "Grünkohl, Rotkohl",
+"w": 73.153939453125,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Grünkohl, Rotkohl"
+},
+{
+"kind": "time",
+"x": 235.04645669291338,
+"y": 333.52519685039374,
+"text": "8–10",
+"w": 19.364,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Grünkohl, Rotkohl"
+},
+{
+"kind": "einsatz",
+"x": 277.34645669291336,
+"y": 333.52519685039374,
+"text": "E gelocht",
+"w": 36.83225683593751,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Grünkohl, Rotkohl"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 333.52519685039374,
+"text": "¼ l",
+"w": 12.93428248046875,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Grünkohl, Rotkohl"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 317.52519685039374,
+"text": "Gurken",
+"w": 29.036544921875002,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Gurken"
+},
+{
+"kind": "time",
+"x": 239.8874566929134,
+"y": 317.52519685039374,
+"text": "1– 2",
+"w": 16.9435,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Gurken"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 317.52519685039374,
+"text": "0–3 Eßlöffel",
+"w": 48.665287109375,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Gurken"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 301.52519685039374,
+"text": "Karotten",
+"w": 33.8728173828125,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Karotten"
+},
+{
+"kind": "time",
+"x": 239.8874566929134,
+"y": 301.52519685039374,
+"text": "5– 8",
+"w": 16.9435,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Karotten"
+},
+{
+"kind": "einsatz",
+"x": 277.34645669291336,
+"y": 301.52519685039374,
+"text": "E gelocht",
+"w": 36.83225683593751,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Karotten"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 301.52519685039374,
+"text": "⅛ l",
+"w": 12.93428248046875,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Karotten"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 285.52519685039374,
+"text": "Kartoffeln, in Stücken",
+"w": 86.305953125,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Kartoffeln, in Stücken"
+},
+{
+"kind": "time",
+"x": 239.8874566929134,
+"y": 285.52519685039374,
+"text": "4– 5",
+"w": 16.9435,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Kartoffeln, in Stücken"
+},
+{
+"kind": "einsatz",
+"x": 277.34645669291336,
+"y": 285.52519685039374,
+"text": "E gelocht",
+"w": 36.83225683593751,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Kartoffeln, in Stücken"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 285.52519685039374,
+"text": "¼ l",
+"w": 12.93428248046875,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Kartoffeln, in Stücken"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 269.52519685039374,
+"text": "Kartoffeln in der Schale",
+"w": 93.28380078125001,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Kartoffeln in der Schale"
+},
+{
+"kind": "time",
+"x": 235.04645669291338,
+"y": 269.52519685039374,
+"text": "6–10",
+"w": 19.364,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Kartoffeln in der Schale"
+},
+{
+"kind": "einsatz",
+"x": 277.34645669291336,
+"y": 269.52519685039374,
+"text": "E gelocht",
+"w": 36.83225683593751,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Kartoffeln in der Schale"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 269.52519685039374,
+"text": "⅛–¼ l",
+"w": 25.599095234375,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Kartoffeln in der Schale"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 253.5251968503937,
+"text": "Kartoffelscheiben, roh,",
+"w": 89.52067968749999,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Kartoffelscheiben, roh,\\ngedünstet (Schnellbratpfanne)"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 242.5251968503937,
+"text": "gedünstet (Schnellbratpfanne)",
+"w": 116.410921875,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Kartoffelscheiben, roh,\\ngedünstet (Schnellbratpfanne)"
+},
+{
+"kind": "time",
+"x": 235.04645669291338,
+"y": 242.5251968503937,
+"text": "10–12",
+"w": 24.205,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Kartoffelscheiben, roh,\\ngedünstet (Schnellbratpfanne)"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 242.5251968503937,
+"text": "0–3 Eßlöffel",
+"w": 48.665287109375,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Kartoffelscheiben, roh,\\ngedünstet (Schnellbratpfanne)"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 226.5251968503937,
+"text": "Kartoffelklöße, gekocht",
+"w": 92.480119140625,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Kartoffelklöße, gekocht"
+},
+{
+"kind": "time",
+"x": 239.8874566929134,
+"y": 226.5251968503937,
+"text": "3– 5",
+"w": 16.9435,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Kartoffelklöße, gekocht"
+},
+{
+"kind": "einsatz",
+"x": 277.34645669291336,
+"y": 226.5251968503937,
+"text": "E gelocht",
+"w": 36.83225683593751,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Kartoffelklöße, gekocht"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 226.5251968503937,
+"text": "¼ l",
+"w": 12.93428248046875,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Kartoffelklöße, gekocht"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 210.5251968503937,
+"text": "Kartoffelklöße, roh",
+"w": 74.7376650390625,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Kartoffelklöße, roh"
+},
+{
+"kind": "time",
+"x": 239.8874566929134,
+"y": 210.5251968503937,
+"text": "7– 9",
+"w": 16.9435,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Kartoffelklöße, roh"
+},
+{
+"kind": "einsatz",
+"x": 277.34645669291336,
+"y": 210.5251968503937,
+"text": "E gelocht",
+"w": 36.83225683593751,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Kartoffelklöße, roh"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 210.5251968503937,
+"text": "¼ l",
+"w": 12.93428248046875,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Kartoffelklöße, roh"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 194.5251968503937,
+"text": "Kohlrabi",
+"w": 34.416484375,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Kohlrabi"
+},
+{
+"kind": "time",
+"x": 239.8874566929134,
+"y": 194.5251968503937,
+"text": "4– 5",
+"w": 16.9435,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Kohlrabi"
+},
+{
+"kind": "einsatz",
+"x": 277.34645669291336,
+"y": 194.5251968503937,
+"text": "E gelocht",
+"w": 36.83225683593751,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Kohlrabi"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 194.5251968503937,
+"text": "¼ l",
+"w": 12.93428248046875,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Kohlrabi"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 178.5251968503937,
+"text": "Kohlrouladen/Krautwickel",
+"w": 103.77893750000001,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Kohlrouladen/Krautwickel"
+},
+{
+"kind": "time",
+"x": 235.04645669291338,
+"y": 178.5251968503937,
+"text": "8–10",
+"w": 19.364,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Kohlrouladen/Krautwickel"
+},
+{
+"kind": "einsatz",
+"x": 277.34645669291336,
+"y": 178.5251968503937,
+"text": "E gelocht",
+"w": 36.83225683593751,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Kohlrouladen/Krautwickel"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 178.5251968503937,
+"text": "⅛–¼ l",
+"w": 25.599095234375,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Kohlrouladen/Krautwickel"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 162.5251968503937,
+"text": "Maiskolben (Süßmais)",
+"w": 87.93695410156249,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Maiskolben (Süßmais)"
+},
+{
+"kind": "time",
+"x": 239.8874566929134,
+"y": 162.5251968503937,
+"text": "5– 6",
+"w": 16.9435,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Maiskolben (Süßmais)"
+},
+{
+"kind": "einsatz",
+"x": 277.34645669291336,
+"y": 162.5251968503937,
+"text": "E gelocht",
+"w": 36.83225683593751,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Maiskolben (Süßmais)"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 162.5251968503937,
+"text": "¼ l",
+"w": 12.93428248046875,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Maiskolben (Süßmais)"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 146.5251968503937,
+"text": "Paprikaschoten, Peperoni",
+"w": 98.408453125,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Paprikaschoten, Peperoni"
+},
+{
+"kind": "time",
+"x": 239.8874566929134,
+"y": 146.5251968503937,
+"text": "3– 4",
+"w": 16.9435,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Paprikaschoten, Peperoni"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 146.5251968503937,
+"text": "3 Eßlöffel",
+"w": 38.983287109375,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Paprikaschoten, Peperoni"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 130.5251968503937,
+"text": "Porree/Lauch",
+"w": 52.1494833984375,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Porree/Lauch"
+},
+{
+"kind": "time",
+"x": 239.8874566929134,
+"y": 130.5251968503937,
+"text": "3– 4",
+"w": 16.9435,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Porree/Lauch"
+},
+{
+"kind": "einsatz",
+"x": 277.34645669291336,
+"y": 130.5251968503937,
+"text": "E gelocht",
+"w": 36.83225683593751,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Porree/Lauch"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 130.5251968503937,
+"text": "¼ l",
+"w": 12.93428248046875,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Porree/Lauch"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 114.52519685039371,
+"text": "Pilze",
+"w": 19.3592724609375,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Pilze"
+},
+{
+"kind": "time",
+"x": 239.8874566929134,
+"y": 114.52519685039371,
+"text": "3– 5",
+"w": 16.9435,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Pilze"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 114.52519685039371,
+"text": "0–3 Eßlöffel",
+"w": 48.665287109375,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Pilze"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 98.52519685039371,
+"text": "Rosenkohl",
+"w": 41.417969726562504,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Rosenkohl"
+},
+{
+"kind": "time",
+"x": 239.8874566929134,
+"y": 98.52519685039371,
+"text": "3– 5",
+"w": 16.9435,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Rosenkohl"
+},
+{
+"kind": "einsatz",
+"x": 277.34645669291336,
+"y": 98.52519685039371,
+"text": "E gelocht",
+"w": 36.83225683593751,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Rosenkohl"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 98.52519685039371,
+"text": "¼ l",
+"w": 12.93428248046875,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Rosenkohl"
+}
+]
+},
+"15": {
+"rules": [
+{
+"y": 547.9251968503937,
+"dashed": false,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 531.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 515.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 499.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 483.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 467.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 451.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 435.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 419.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 403.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 387.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 371.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 355.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 339.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 323.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 307.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 291.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 275.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 259.9251968503937,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 243.92519685039372,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 227.92519685039372,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 211.92519685039372,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 195.92519685039372,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 179.92519685039372,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 163.92519685039372,
+"dashed": true,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 136.92519685039372,
+"dashed": false,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+},
+{
+"y": 96.42519685039372,
+"dashed": false,
+"x0": 28.34645669291339,
+"x1": 391.18110236220474
+}
+],
+"texts": [
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 536.5251968503937,
+"text": "Rote Rüben/Bete",
+"w": 66.4171962890625,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Rote Rüben/Bete"
+},
+{
+"kind": "time",
+"x": 234.4464566929134,
+"y": 536.5251968503937,
+"text": "15–25",
+"w": 24.205,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Rote Rüben/Bete"
+},
+{
+"kind": "einsatz",
+"x": 276.1464566929134,
+"y": 536.5251968503937,
+"text": "E gelocht",
+"w": 36.83225683593751,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Rote Rüben/Bete"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 536.5251968503937,
+"text": "¼–½ l",
+"w": 25.599095234375,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Rote Rüben/Bete"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 520.5251968503937,
+"text": "Sauerkraut",
+"w": 41.937999023437506,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Sauerkraut"
+},
+{
+"kind": "time",
+"x": 234.4464566929134,
+"y": 520.5251968503937,
+"text": "15–20",
+"w": 24.205,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Sauerkraut"
+},
+{
+"kind": "water",
+"x": 277.34645669291336,
+"y": 520.5251968503937,
+"text": "¼ l",
+"w": 12.93428248046875,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Sauerkraut"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 504.52519685039374,
+"text": "Schwarzwurzeln",
+"w": 64.51672558593751,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Schwarzwurzeln"
+},
+{
+"kind": "time",
+"x": 234.4464566929134,
+"y": 504.52519685039374,
+"text": "10–15",
+"w": 24.205,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Schwarzwurzeln"
+},
+{
+"kind": "einsatz",
+"x": 276.1464566929134,
+"y": 504.52519685039374,
+"text": "E gelocht",
+"w": 36.83225683593751,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Schwarzwurzeln"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 504.52519685039374,
+"text": "¼ l",
+"w": 12.93428248046875,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Schwarzwurzeln"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 488.52519685039374,
+"text": "Sellerie, in Scheiben",
+"w": 79.85286230468749,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Sellerie, in Scheiben"
+},
+{
+"kind": "time",
+"x": 239.2874566929134,
+"y": 488.52519685039374,
+"text": "4– 6",
+"w": 16.9435,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Sellerie, in Scheiben"
+},
+{
+"kind": "einsatz",
+"x": 276.1464566929134,
+"y": 488.52519685039374,
+"text": "E gelocht",
+"w": 36.83225683593751,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Sellerie, in Scheiben"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 488.52519685039374,
+"text": "¼ l",
+"w": 12.93428248046875,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Sellerie, in Scheiben"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 472.52519685039374,
+"text": "Spargel",
+"w": 29.575484375000002,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Spargel"
+},
+{
+"kind": "time",
+"x": 234.4464566929134,
+"y": 472.52519685039374,
+"text": "5–10",
+"w": 19.364,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Spargel"
+},
+{
+"kind": "einsatz",
+"x": 276.1464566929134,
+"y": 472.52519685039374,
+"text": "E gelocht",
+"w": 36.83225683593751,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Spargel"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 472.52519685039374,
+"text": "¼ l",
+"w": 12.93428248046875,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Spargel"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 456.52519685039374,
+"text": "Spinat",
+"w": 24.743939453124998,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Spinat"
+},
+{
+"kind": "time",
+"x": 239.2874566929134,
+"y": 456.52519685039374,
+"text": "1– 3",
+"w": 16.9435,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Spinat"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 456.52519685039374,
+"text": "0–3 Eßlöffel",
+"w": 48.665287109375,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Spinat"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 440.52519685039374,
+"text": "Tomaten",
+"w": 34.4117568359375,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Tomaten"
+},
+{
+"kind": "time",
+"x": 239.2874566929134,
+"y": 440.52519685039374,
+"text": "1– 2",
+"w": 16.9435,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Tomaten"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 440.52519685039374,
+"text": "0–3 Eßlöffel",
+"w": 48.665287109375,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Tomaten"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 424.52519685039374,
+"text": "Wirsing",
+"w": 31.192302734375,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Wirsing"
+},
+{
+"kind": "time",
+"x": 239.2874566929134,
+"y": 424.52519685039374,
+"text": "5– 7",
+"w": 16.9435,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Wirsing"
+},
+{
+"kind": "einsatz",
+"x": 276.1464566929134,
+"y": 424.52519685039374,
+"text": "E gelocht",
+"w": 36.83225683593751,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Wirsing"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 424.52519685039374,
+"text": "⅛ l",
+"w": 12.93428248046875,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Wirsing"
+},
+{
+"kind": "name",
+"x": 94.34645669291339,
+"y": 408.52519685039374,
+"text": "Zwiebeln, ganze",
+"w": 63.977786132812504,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Zwiebeln, ganze"
+},
+{
+"kind": "time",
+"x": 234.4464566929134,
+"y": 408.52519685039374,
+"text": "6–10",
+"w": 19.364,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Zwiebeln, ganze"
+},
+{
+"kind": "einsatz",
+"x": 276.1464566929134,
+"y": 408.52519685039374,
+"text": "E gelocht",
+"w": 36.83225683593751,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Zwiebeln, ganze"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 408.52519685039374,
+"text": "¼ l",
+"w": 12.93428248046875,
+"size": 9.4,
+"row": "Gemüse, Kartoffeln · Zwiebeln, ganze"
+},
+{
+"kind": "label",
+"x": 28.34645669291339,
+"y": 376.52519685039374,
+"text": "Hülsenfrüchte,",
+"w": 61.5856513671875,
+"size": 9.4,
+"row": "Hülsenfrüchte, Reis, Teigwaren · Bohnen, weiße"
+},
+{
+"kind": "name",
+"x": 110.34645669291339,
+"y": 376.52519685039374,
+"text": "Bohnen, weiße",
+"w": 58.0778173828125,
+"size": 9.4,
+"row": "Hülsenfrüchte, Reis, Teigwaren · Bohnen, weiße"
+},
+{
+"kind": "soak",
+"x": 178.3464566929134,
+"y": 376.52519685039374,
+"text": "6–8",
+"w": 14.523000000000001,
+"size": 9.4,
+"row": "Hülsenfrüchte, Reis, Teigwaren · Bohnen, weiße"
+},
+{
+"kind": "time",
+"x": 234.4464566929134,
+"y": 376.52519685039374,
+"text": "20–25",
+"w": 24.205,
+"size": 9.4,
+"row": "Hülsenfrüchte, Reis, Teigwaren · Bohnen, weiße"
+},
+{
+"kind": "einsatz",
+"x": 276.1464566929134,
+"y": 376.52519685039374,
+"text": "E gelocht",
+"w": 36.83225683593751,
+"size": 9.4,
+"row": "Hülsenfrüchte, Reis, Teigwaren · Bohnen, weiße"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 376.52519685039374,
+"text": "mit Wasser bedeckt",
+"w": 76.34975585937498,
+"size": 9.4,
+"row": "Hülsenfrüchte, Reis, Teigwaren · Bohnen, weiße"
+},
+{
+"kind": "label",
+"x": 28.34645669291339,
+"y": 360.52519685039374,
+"text": "Reis,",
+"w": 20.167681640625002,
+"size": 9.4,
+"row": "Hülsenfrüchte, Reis, Teigwaren · Erbsen"
+},
+{
+"kind": "name",
+"x": 110.34645669291339,
+"y": 360.52519685039374,
+"text": "Erbsen",
+"w": 26.885514648437503,
+"size": 9.4,
+"row": "Hülsenfrüchte, Reis, Teigwaren · Erbsen"
+},
+{
+"kind": "soak",
+"x": 178.3464566929134,
+"y": 360.52519685039374,
+"text": "6–8",
+"w": 14.523000000000001,
+"size": 9.4,
+"row": "Hülsenfrüchte, Reis, Teigwaren · Erbsen"
+},
+{
+"kind": "time",
+"x": 234.4464566929134,
+"y": 360.52519685039374,
+"text": "18–22",
+"w": 24.205,
+"size": 9.4,
+"row": "Hülsenfrüchte, Reis, Teigwaren · Erbsen"
+},
+{
+"kind": "einsatz",
+"x": 276.1464566929134,
+"y": 360.52519685039374,
+"text": "E",
+"w": 5.9141513671874995,
+"size": 9.4,
+"row": "Hülsenfrüchte, Reis, Teigwaren · Erbsen"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 360.52519685039374,
+"text": "mit Wasser bedeckt",
+"w": 76.34975585937498,
+"size": 9.4,
+"row": "Hülsenfrüchte, Reis, Teigwaren · Erbsen"
+},
+{
+"kind": "label",
+"x": 28.34645669291339,
+"y": 344.52519685039374,
+"text": "Teigwaren",
+"w": 44.098484375,
+"size": 9.4,
+"row": "Hülsenfrüchte, Reis, Teigwaren · Graupen/Gerste"
+},
+{
+"kind": "name",
+"x": 110.34645669291339,
+"y": 344.52519685039374,
+"text": "Graupen/Gerste",
+"w": 61.2925439453125,
+"size": 9.4,
+"row": "Hülsenfrüchte, Reis, Teigwaren · Graupen/Gerste"
+},
+{
+"kind": "time",
+"x": 234.4464566929134,
+"y": 344.52519685039374,
+"text": "20–30",
+"w": 24.205,
+"size": 9.4,
+"row": "Hülsenfrüchte, Reis, Teigwaren · Graupen/Gerste"
+},
+{
+"kind": "einsatz",
+"x": 276.1464566929134,
+"y": 344.52519685039374,
+"text": "E",
+"w": 5.9141513671874995,
+"size": 9.4,
+"row": "Hülsenfrüchte, Reis, Teigwaren · Graupen/Gerste"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 344.52519685039374,
+"text": "mit Wasser bedeckt",
+"w": 76.34975585937498,
+"size": 9.4,
+"row": "Hülsenfrüchte, Reis, Teigwaren · Graupen/Gerste"
+},
+{
+"kind": "name",
+"x": 110.34645669291339,
+"y": 328.52519685039374,
+"text": "Linsen",
+"w": 26.351302734375,
+"size": 9.4,
+"row": "Hülsenfrüchte, Reis, Teigwaren · Linsen"
+},
+{
+"kind": "soak",
+"x": 178.3464566929134,
+"y": 328.52519685039374,
+"text": "6–8",
+"w": 14.523000000000001,
+"size": 9.4,
+"row": "Hülsenfrüchte, Reis, Teigwaren · Linsen"
+},
+{
+"kind": "time",
+"x": 234.4464566929134,
+"y": 328.52519685039374,
+"text": "10–12",
+"w": 24.205,
+"size": 9.4,
+"row": "Hülsenfrüchte, Reis, Teigwaren · Linsen"
+},
+{
+"kind": "einsatz",
+"x": 276.1464566929134,
+"y": 328.52519685039374,
+"text": "E",
+"w": 5.9141513671874995,
+"size": 9.4,
+"row": "Hülsenfrüchte, Reis, Teigwaren · Linsen"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 328.52519685039374,
+"text": "mit Wasser bedeckt",
+"w": 76.34975585937498,
+"size": 9.4,
+"row": "Hülsenfrüchte, Reis, Teigwaren · Linsen"
+},
+{
+"kind": "name",
+"x": 110.34645669291339,
+"y": 312.52519685039374,
+"text": "Mais (Polenta)",
+"w": 57.2741357421875,
+"size": 9.4,
+"row": "Hülsenfrüchte, Reis, Teigwaren · Mais (Polenta)"
+},
+{
+"kind": "time",
+"x": 234.4464566929134,
+"y": 312.52519685039374,
+"text": "5–6",
+"w": 14.523000000000001,
+"size": 9.4,
+"row": "Hülsenfrüchte, Reis, Teigwaren · Mais (Polenta)"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 312.52519685039374,
+"text": "1 : 2",
+"w": 17.212969726562502,
+"size": 9.4,
+"row": "Hülsenfrüchte, Reis, Teigwaren · Mais (Polenta)"
+},
+{
+"kind": "name",
+"x": 110.34645669291339,
+"y": 296.52519685039374,
+"text": "Haferflocken",
+"w": 51.066876953125,
+"size": 9.4,
+"row": "Hülsenfrüchte, Reis, Teigwaren · Haferflocken"
+},
+{
+"kind": "time",
+"x": 234.4464566929134,
+"y": 296.52519685039374,
+"text": "5–6",
+"w": 14.523000000000001,
+"size": 9.4,
+"row": "Hülsenfrüchte, Reis, Teigwaren · Haferflocken"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 296.52519685039374,
+"text": "1 : 2",
+"w": 17.212969726562502,
+"size": 9.4,
+"row": "Hülsenfrüchte, Reis, Teigwaren · Haferflocken"
+},
+{
+"kind": "name",
+"x": 110.34645669291339,
+"y": 280.52519685039374,
+"text": "Milchreis (Rundkornreis)",
+"w": 98.682650390625,
+"size": 9.4,
+"row": "Hülsenfrüchte, Reis, Teigwaren · Milchreis (Rundkornreis)"
+},
+{
+"kind": "time",
+"x": 234.4464566929134,
+"y": 280.52519685039374,
+"text": "7–9",
+"w": 14.523000000000001,
+"size": 9.4,
+"row": "Hülsenfrüchte, Reis, Teigwaren · Milchreis (Rundkornreis)"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 280.52519685039374,
+"text": "1 : 3",
+"w": 17.212969726562502,
+"size": 9.4,
+"row": "Hülsenfrüchte, Reis, Teigwaren · Milchreis (Rundkornreis)"
+},
+{
+"kind": "name",
+"x": 110.34645669291339,
+"y": 264.52519685039374,
+"text": "Nudeln und andere Teigwaren",
+"w": 117.479345703125,
+"size": 9.4,
+"row": "Hülsenfrüchte, Reis, Teigwaren · Nudeln und andere Teigwaren"
+},
+{
+"kind": "time",
+"x": 234.4464566929134,
+"y": 264.52519685039374,
+"text": "4–8",
+"w": 14.523000000000001,
+"size": 9.4,
+"row": "Hülsenfrüchte, Reis, Teigwaren · Nudeln und andere Teigwaren"
+},
+{
+"kind": "einsatz",
+"x": 276.1464566929134,
+"y": 264.52519685039374,
+"text": "E gelocht",
+"w": 36.83225683593751,
+"size": 9.4,
+"row": "Hülsenfrüchte, Reis, Teigwaren · Nudeln und andere Teigwaren"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 264.52519685039374,
+"text": "1 : 10",
+"w": 22.053969726562503,
+"size": 9.4,
+"row": "Hülsenfrüchte, Reis, Teigwaren · Nudeln und andere Teigwaren"
+},
+{
+"kind": "name",
+"x": 110.34645669291339,
+"y": 248.5251968503937,
+"text": "Reis (körnig gekocht)",
+"w": 84.42912011718751,
+"size": 9.4,
+"row": "Hülsenfrüchte, Reis, Teigwaren · Reis (körnig gekocht)"
+},
+{
+"kind": "time",
+"x": 234.4464566929134,
+"y": 248.5251968503937,
+"text": "6",
+"w": 4.841,
+"size": 9.4,
+"row": "Hülsenfrüchte, Reis, Teigwaren · Reis (körnig gekocht)"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 248.5251968503937,
+"text": "1 : 2",
+"w": 17.212969726562502,
+"size": 9.4,
+"row": "Hülsenfrüchte, Reis, Teigwaren · Reis (körnig gekocht)"
+},
+{
+"kind": "name",
+"x": 110.34645669291339,
+"y": 232.5251968503937,
+"text": "Risotto (ital. Sorte)",
+"w": 74.49183300781252,
+"size": 9.4,
+"row": "Hülsenfrüchte, Reis, Teigwaren · Risotto (ital. Sorte)"
+},
+{
+"kind": "time",
+"x": 234.4464566929134,
+"y": 232.5251968503937,
+"text": "6–7",
+"w": 14.523000000000001,
+"size": 9.4,
+"row": "Hülsenfrüchte, Reis, Teigwaren · Risotto (ital. Sorte)"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 232.5251968503937,
+"text": "1 : 2",
+"w": 17.212969726562502,
+"size": 9.4,
+"row": "Hülsenfrüchte, Reis, Teigwaren · Risotto (ital. Sorte)"
+},
+{
+"kind": "label",
+"x": 28.34645669291339,
+"y": 216.5251968503937,
+"text": "Obst (Kompott)",
+"w": 65.8877119140625,
+"size": 9.4,
+"row": "Obst (Kompott) · Backobst/Dörrobst, vorgeweicht"
+},
+{
+"kind": "name",
+"x": 110.34645669291339,
+"y": 216.5251968503937,
+"text": "Backobst/Dörrobst, vorgeweicht",
+"w": 125.83763476562501,
+"size": 9.4,
+"row": "Obst (Kompott) · Backobst/Dörrobst, vorgeweicht"
+},
+{
+"kind": "time",
+"x": 234.4464566929134,
+"y": 216.5251968503937,
+"text": "1–5",
+"w": 14.523000000000001,
+"size": 9.4,
+"row": "Obst (Kompott) · Backobst/Dörrobst, vorgeweicht"
+},
+{
+"kind": "einsatz",
+"x": 276.1464566929134,
+"y": 216.5251968503937,
+"text": "E gelocht",
+"w": 36.83225683593751,
+"size": 9.4,
+"row": "Obst (Kompott) · Backobst/Dörrobst, vorgeweicht"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 216.5251968503937,
+"text": "¼ l",
+"w": 12.93428248046875,
+"size": 9.4,
+"row": "Obst (Kompott) · Backobst/Dörrobst, vorgeweicht"
+},
+{
+"kind": "name",
+"x": 110.34645669291339,
+"y": 200.5251968503937,
+"text": "Kernobst (in Schnitzen)",
+"w": 92.4943017578125,
+"size": 9.4,
+"row": "Obst (Kompott) · Kernobst (in Schnitzen)"
+},
+{
+"kind": "time",
+"x": 234.4464566929134,
+"y": 200.5251968503937,
+"text": "2–4",
+"w": 14.523000000000001,
+"size": 9.4,
+"row": "Obst (Kompott) · Kernobst (in Schnitzen)"
+},
+{
+"kind": "einsatz",
+"x": 276.1464566929134,
+"y": 200.5251968503937,
+"text": "E gelocht",
+"w": 36.83225683593751,
+"size": 9.4,
+"row": "Obst (Kompott) · Kernobst (in Schnitzen)"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 200.5251968503937,
+"text": "¼ l",
+"w": 12.93428248046875,
+"size": 9.4,
+"row": "Obst (Kompott) · Kernobst (in Schnitzen)"
+},
+{
+"kind": "name",
+"x": 110.34645669291339,
+"y": 184.5251968503937,
+"text": "Steinobst",
+"w": 36.04275781250001,
+"size": 9.4,
+"row": "Obst (Kompott) · Steinobst"
+},
+{
+"kind": "time",
+"x": 234.4464566929134,
+"y": 184.5251968503937,
+"text": "0–2",
+"w": 14.523000000000001,
+"size": 9.4,
+"row": "Obst (Kompott) · Steinobst"
+},
+{
+"kind": "einsatz",
+"x": 276.1464566929134,
+"y": 184.5251968503937,
+"text": "E gelocht",
+"w": 36.83225683593751,
+"size": 9.4,
+"row": "Obst (Kompott) · Steinobst"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 184.5251968503937,
+"text": "¼ l",
+"w": 12.93428248046875,
+"size": 9.4,
+"row": "Obst (Kompott) · Steinobst"
+},
+{
+"kind": "name",
+"x": 110.34645669291339,
+"y": 168.5251968503937,
+"text": "Kastanien",
+"w": 38.7138173828125,
+"size": 9.4,
+"row": "Obst (Kompott) · Kastanien"
+},
+{
+"kind": "time",
+"x": 234.4464566929134,
+"y": 168.5251968503937,
+"text": "10–12",
+"w": 24.205,
+"size": 9.4,
+"row": "Obst (Kompott) · Kastanien"
+},
+{
+"kind": "einsatz",
+"x": 276.1464566929134,
+"y": 168.5251968503937,
+"text": "E gelocht",
+"w": 36.83225683593751,
+"size": 9.4,
+"row": "Obst (Kompott) · Kastanien"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 168.5251968503937,
+"text": "¼ l",
+"w": 12.93428248046875,
+"size": 9.4,
+"row": "Obst (Kompott) · Kastanien"
+},
+{
+"kind": "label",
+"x": 28.34645669291339,
+"y": 152.5251968503937,
+"text": "Süßspeisen",
+"w": 45.74366796875,
+"size": 9.4,
+"row": "Süßspeisen · Pudding (im Wasserbad),\\nje nach Größe der Form"
+},
+{
+"kind": "name",
+"x": 110.34645669291339,
+"y": 152.5251968503937,
+"text": "Pudding (im Wasserbad),",
+"w": 98.682650390625,
+"size": 9.4,
+"row": "Süßspeisen · Pudding (im Wasserbad),\\nje nach Größe der Form"
+},
+{
+"kind": "name",
+"x": 110.34645669291339,
+"y": 141.5251968503937,
+"text": "je nach Größe der Form",
+"w": 92.48484667968751,
+"size": 9.4,
+"row": "Süßspeisen · Pudding (im Wasserbad),\\nje nach Größe der Form"
+},
+{
+"kind": "time",
+"x": 234.4464566929134,
+"y": 152.5251968503937,
+"text": "10–25",
+"w": 24.205,
+"size": 9.4,
+"row": "Süßspeisen · Pudding (im Wasserbad),\\nje nach Größe der Form"
+},
+{
+"kind": "einsatz",
+"x": 276.1464566929134,
+"y": 152.5251968503937,
+"text": "E mit",
+"w": 21.245560546874998,
+"size": 9.4,
+"row": "Süßspeisen · Pudding (im Wasserbad),\\nje nach Größe der Form"
+},
+{
+"kind": "einsatz",
+"x": 276.1464566929134,
+"y": 141.5251968503937,
+"text": "Füßchen",
+"w": 33.3433330078125,
+"size": 9.4,
+"row": "Süßspeisen · Pudding (im Wasserbad),\\nje nach Größe der Form"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 152.5251968503937,
+"text": "Wasser bis zum",
+"w": 61.3019990234375,
+"size": 9.4,
+"row": "Süßspeisen · Pudding (im Wasserbad),\\nje nach Größe der Form"
+},
+{
+"kind": "water",
+"x": 319.84645669291336,
+"y": 141.5251968503937,
+"text": "Siebeinsatz",
+"w": 44.093756835937505,
+"size": 9.4,
+"row": "Süßspeisen · Pudding (im Wasserbad),\\nje nach Größe der Form"
+}
+]
+}
+}
