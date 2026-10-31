@@ -16,6 +16,7 @@
 | `src/align.py` | Registrierung: Tabellenlinien des Originals werden per dynamischer Programmierung den PDF-Linien zugeordnet (y), die x-Skala kommt aus zeilenweiser Profilkorrelation, der x-Versatz aus dem Namensblock; danach affine ECC-Feinkorrektur, falls sie die Überdeckung verbessert |
 | `src/measure_layout.py` | misst aus der Registrierung die Spaltenversätze Original vs. PDF (fließen als `COL_ADJ` in `build_pdf.py` ein) |
 | `src/cases.py` | erzeugt die Fallübersicht der schwierigen Zellen |
+| `src/overlay.py`, `diff/bruch_overlays.pdf` (`_1..5.png`) | alle 59 Bruch-Zellen: registriertes Original (grau) mit jeder strukturgleichen Lesart (⅛/¼/½ bzw. ⅛–¼/¼–½/⅛–½) rot darübergelegt, am Liter-l verankert; grüner Rahmen = aktuelle CSV-Lesung, „unsicher“ = in der CSV markiert. Zur manuellen Bewertung gedacht. |
 
 Neu bauen:
 ```
@@ -25,7 +26,7 @@ pdftoppm -r 300 -png garzeiten.pdf compare/pdf300 && python3 src/align.py       
 python3 src/measure_layout.py && python3 src/cases.py                             # Spaltenversätze, schwierige Zellen
 ```
 
-Der Satz wurde anhand der Differenzbilder an das Original angeglichen: Schriftgrad 9,4 pt mit 103 % Laufweite (das Original läuft breiter als Liberation Serif), Spaltenpositionen je Seite um bis zu 5 pt korrigiert. Die Tintenüberdeckung Original/PDF liegt bei 39–47 % der PDF-Tinte; der Rest sind Glyphenform- und Strichstärkenunterschiede der Schriften, nicht Lagefehler.
+Der Satz wurde anhand der Differenzbilder an das Original angeglichen: Schriftgrad 9,4 pt mit 103 % Laufweite (das Original läuft breiter als Liberation Serif). Auf seitenweise Spaltenkorrekturen wurde bewusst verzichtet, damit Zeilen- und Spaltenabstände über alle vier Seiten identisch sind (`COL_ADJ` bleibt leer). Die Tintenüberdeckung Original/PDF liegt bei 39–47 % der PDF-Tinte; der Rest sind Glyphenform- und Strichstärkenunterschiede der Schriften, nicht Lagefehler.
 
 Die Korrelationswerte in `schwierige_faelle` sind nur ein schwacher Hinweis: Die Nenner der Brüche sind so klein und abgerieben, dass sich die Lesarten nur um wenige Hundertstel unterscheiden. Maßgeblich ist der visuelle Vergleich im Differenzbild (z. B. ist bei Kartoffeln in der Schale und Rote Rüben der Bindestrich und ein zweiter Bruch im Original klar erkennbar, obwohl der Wert eine Einzelmenge bevorzugt).
 

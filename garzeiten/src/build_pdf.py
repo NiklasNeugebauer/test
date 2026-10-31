@@ -26,7 +26,7 @@ PAGE_NUM_Y = 20 * mm
 X_SYM, X_NAME, X_TIME, X_SOAK, X_E, X_WATER = 57.6, 66.0, 202.7, 150.0, 249.0, 291.5
 FRACS = {'⅛': ('1', '8'), '¼': ('1', '4'), '½': ('1', '2')}
 # per-page column corrections in pt, measured from the registered originals (src/measure_layout.py)
-COL_ADJ = {12: {'time': 4.1}, 13: {'einsatz': -4.4, 'time': -1.7, 'water': -5.1}, 14: {'time': 4.0}, 15: {'time': 3.4, 'einsatz': -1.2}}
+COL_ADJ = {}      # kept empty on purpose: one consistent layout for all pages
 def adj(kind):
     return COL_ADJ.get(_cur['page'], {}).get(kind, 0.0)
 GEOM = {}          # page -> {'rules': [...], 'texts': [...]}
