@@ -38,6 +38,6 @@ Die Korrelationswerte in `schwierige_faelle` sind nur ein schwacher Hinweis: Die
 
 ## Unsichere Lesungen
 Die Wassermengen-Brüche (⅛ l, ¼ l, ½ l) sind im Original stark abgerieben. Entschieden wurde nach der Form des Nenners (x-förmig = 8, offen = 4) und nach dem Kontext, anschließend anhand der Overlay-Blätter manuell geprüft. Dabei bestätigt bzw. korrigiert: Steinobst, Kastanien und Kernobst → ⅛ l; Kartoffeln in der Schale ⅛–¼ l und Grünkohl/Rotkohl ¼ l bestätigt.
-Weiterhin unsicher (rot unterstrichen): Ragout oder Gulasch (Fisch) ⅛ l, Hähnchen ganz ⅛ l, Kohlrouladen/Krautwickel ⅛–¼ l, Rote Rüben/Bete ¼–½ l, Sauerkraut ¼ l, Schwarzwurzeln ¼ l, Zwiebeln ganze ¼ l sowie die erste Ziffer bei Rebhühner (3–6 Eßlöffel, analog Fasan).
+Weiterhin unsicher (rot unterstrichen): Ragout oder Gulasch (Fisch) ⅛ l, Hähnchen ganz ⅛ l, Kohlrouladen/Krautwickel ⅛–¼ l, Rote Rüben/Bete ¼–½ l, Sauerkraut ¼ l (im Original in der Einsatz-Spalte gesetzt, hier in der Wasser-Spalte), Schwarzwurzeln ¼ l, Zwiebeln ganze ¼ l sowie die erste Ziffer bei Rebhühner (3–6 Eßlöffel, analog Fasan).
 
 Nicht reproduziert: der Bibliotheksstempel unten auf Seite 15 (die Seitenzahl 15 darunter ist im Original verdeckt und wurde ergänzt).

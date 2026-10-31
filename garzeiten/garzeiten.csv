@@ -79,7 +79,7 @@ seite,typ,gruppe,label,symbol,gericht,garzeit_eingeweicht_min,garzeit_min,einsat
 14,eintrag,"Gemüse, Kartoffeln",,○,Pilze,,3–5,,0–3 Eßlöffel,
 14,eintrag,"Gemüse, Kartoffeln",,,Rosenkohl,,3–5,E gelocht,¼ l,
 15,eintrag,"Gemüse, Kartoffeln",,,Rote Rüben/Bete,,15–25,E gelocht,¼–½ l,UNSICHER: Brüche abgerieben; ¼–½ l nicht sicher lesbar
-15,eintrag,"Gemüse, Kartoffeln",,,Sauerkraut,,15–20,,¼ l,UNSICHER: Wassermenge steht in der Einsatz-Spalte
+15,eintrag,"Gemüse, Kartoffeln",,,Sauerkraut,,15–20,,¼ l,"UNSICHER: Bruch abgerieben; ¼ l nicht sicher lesbar. Im Original steht die Menge versehentlich in der Einsatz-Spalte, hier in die Wasser-Spalte gesetzt"
 15,eintrag,"Gemüse, Kartoffeln",,,Schwarzwurzeln,,10–15,E gelocht,¼ l,UNSICHER: Bruch abgerieben; ¼ l nicht sicher lesbar
 15,eintrag,"Gemüse, Kartoffeln",,,"Sellerie, in Scheiben",,4–6,E gelocht,¼ l,
 15,eintrag,"Gemüse, Kartoffeln",,,Spargel,,5–10,E gelocht,¼ l,

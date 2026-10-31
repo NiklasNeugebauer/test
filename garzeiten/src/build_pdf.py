@@ -194,8 +194,6 @@ def draw_page(c, rows, page):
         if r['garzeit_min']:
             draw_time(c, L + X_TIME + adj('time'), col_base, r['garzeit_min'], row=r['gruppe'] + ' · ' + r['gericht'])
         unsure = r['anmerkung'].startswith('UNSICHER')
-        if r['gericht'].startswith('Sauerkraut'):   # original sets the quantity in the insert column
-            draw_water(c, L + X_E, col_base, r['wasser'], row=r['gruppe'] + ' · ' + r['gericht'], mark=unsure); e_l, w_l = [], []
         for k, t in enumerate(e_l):
             txt(c, L + X_E + adj('einsatz'), col_base - LINE * k, t, max_w=X_WATER - X_E - 3)
             rec_text('einsatz', L + X_E + adj('einsatz'), col_base - LINE * k, t, sw(t, 'Serif', FS), row=r['gruppe'] + ' · ' + r['gericht'])
