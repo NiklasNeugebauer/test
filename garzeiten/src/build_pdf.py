@@ -97,10 +97,21 @@ def draw_water(c, x, y, text, row=None, max_w=None, mark=False):
             txt(c, x, y, ch); x += sw(ch, 'Serif', FS)
 
 def draw_time(c, x, y, t, row=None):
-    """Times like '6– 8' are set so that the dash aligns with two-digit entries."""
-    if re.fullmatch(r'\d– \d', t):
-        x += sw('0', 'Serif', FS)
-    txt(c, x, y, t); rec_text('time', x, y, t, sw(t, 'Serif', FS), row=row)
+    """Times are set around a fixed dash position: the first number right-aligned to the dash,
+    the second left-aligned after it, so tens sit above tens and units above units
+    (as in the original). A single value sits under the units digit of the first number."""
+    m = re.fullmatch(r'(\d+)\s*–\s*(\d+)', t)
+    dash_x = x + sw('00', 'Serif', FS)          # two-digit first numbers start at x
+    if m:
+        a, b = m.group(1), m.group(2)
+        txt(c, dash_x - sw(a, 'Serif', FS), y, a)
+        txt(c, dash_x, y, '–')
+        txt(c, dash_x + sw('–', 'Serif', FS), y, b)
+        x0 = dash_x - sw(a, 'Serif', FS); w = sw(a + '–' + b, 'Serif', FS)
+    else:
+        x0 = dash_x - sw(t, 'Serif', FS); w = sw(t, 'Serif', FS)
+        txt(c, x0, y, t)
+    rec_text('time', x0, y, t, w, row=row)
 
 def draw_symbol(c, x, y, sym):
     if sym == '○':
@@ -178,8 +189,7 @@ def draw_page(c, rows, page):
         top_aligned = len(e_l) > 1 or len(w_l) > 1
         col_base = first_base if top_aligned else last_base
         if r['garzeit_eingeweicht_min']:
-            txt(c, L + X_SOAK + adj('soak'), col_base, r['garzeit_eingeweicht_min'])
-            rec_text('soak', L + X_SOAK + adj('soak'), col_base, r['garzeit_eingeweicht_min'], sw(r['garzeit_eingeweicht_min'], 'Serif', FS), row=r['gruppe'] + ' · ' + r['gericht'])
+            draw_time(c, L + X_SOAK + adj('soak'), col_base, r['garzeit_eingeweicht_min'], row=r['gruppe'] + ' · ' + r['gericht'])
         if r['garzeit_min']:
             draw_time(c, L + X_TIME + adj('time'), col_base, r['garzeit_min'], row=r['gruppe'] + ' · ' + r['gericht'])
         unsure = r['anmerkung'].startswith('UNSICHER')
