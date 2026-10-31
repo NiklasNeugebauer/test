@@ -98,7 +98,7 @@ def draw_water(c, x, y, text, row=None, max_w=None, mark=False):
 
 def draw_time(c, x, y, t, row=None):
     """Times are set around a fixed dash position: the first number right-aligned to the dash,
-    the second left-aligned after it, so tens sit above tens and units above units
+    the second right-aligned in a two-digit field after it, so tens sit above tens and units above units
     (as in the original). A single value sits under the units digit of the first number."""
     m = re.fullmatch(r'(\d+)\s*–\s*(\d+)', t)
     dash_x = x + sw('00', 'Serif', FS)          # two-digit first numbers start at x
@@ -106,8 +106,9 @@ def draw_time(c, x, y, t, row=None):
         a, b = m.group(1), m.group(2)
         txt(c, dash_x - sw(a, 'Serif', FS), y, a)
         txt(c, dash_x, y, '–')
-        txt(c, dash_x + sw('–', 'Serif', FS), y, b)
-        x0 = dash_x - sw(a, 'Serif', FS); w = sw(a + '–' + b, 'Serif', FS)
+        # second number right-aligned in a two-digit field after the dash ("6– 8" under "20–25")
+        txt(c, dash_x + sw('–', 'Serif', FS) + sw('00', 'Serif', FS) - sw(b, 'Serif', FS), y, b)
+        x0 = dash_x - sw(a, 'Serif', FS); w = sw(a + '–00', 'Serif', FS)
     else:
         x0 = dash_x - sw(t, 'Serif', FS); w = sw(t, 'Serif', FS)
         txt(c, x0, y, t)

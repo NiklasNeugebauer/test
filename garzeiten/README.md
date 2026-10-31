@@ -31,7 +31,7 @@ Der Satz wurde anhand der Differenzbilder an das Original angeglichen: Schriftgr
 Die Korrelationswerte in `schwierige_faelle` sind nur ein schwacher Hinweis: Die Nenner der Brüche sind so klein und abgerieben, dass sich die Lesarten nur um wenige Hundertstel unterscheiden. Maßgeblich ist der visuelle Vergleich im Differenzbild (z. B. ist bei Kartoffeln in der Schale und Rote Rüben der Bindestrich und ein zweiter Bruch im Original klar erkennbar, obwohl der Wert eine Einzelmenge bevorzugt).
 
 ## Satz-Details nach Vorbild des Originals
-- Garzeiten (und Einweichzeiten) sind wie im Original um eine feste Gedankenstrich-Position gesetzt: erste Zahl rechtsbündig davor, zweite linksbündig dahinter, Einzelwerte unter der Einerstelle. Zehner stehen so über Zehnern. In der CSV stehen die Zeiten ohne Ausrichtungs-Leerzeichen (`6–8`).
+- Garzeiten (und Einweichzeiten) sind wie im Original um eine feste Gedankenstrich-Position gesetzt: erste Zahl rechtsbündig davor, zweite rechtsbündig in einem zweistelligen Feld dahinter („6– 8“ unter „20–25“), Einzelwerte unter der Einerstelle. Zehner stehen so über Zehnern. In der CSV stehen die Zeiten ohne Ausrichtungs-Leerzeichen (`6–8`).
 - Kopfzeile „eingeweicht / nicht eingeweicht“ auf Seite 15 ist wie im Original kleiner gesetzt (78 %).
 - Zu lange Zellen werden automatisch in der Laufweite verengt, statt in die Nachbarspalte zu laufen (Namen bis zur Garzeit- bzw. Einweich-Spalte, Einsatz bis zur Wasser-Spalte, Wassermenge bis knapp über den Tabellenrand, wie es das Original bei „mit Wasser bedecken“ auch tut).
 - Wassermengen, die im Original so abgerieben sind, dass die Lesung unsicher bleibt, sind im PDF **rot unterstrichen** (Fußnote auf Seite 15). In der CSV beginnt ihre `anmerkung` mit `UNSICHER:`.
